@@ -933,7 +933,7 @@
     "ev": "XIII. század vége",
     "kor": "Gótika",
     "hely": "Assisi, San Francesco",
-    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg/640px-Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg,"
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg/640px-Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg"
   },
   {
     "id": 105,
@@ -1536,7 +1536,7 @@
     "ev": "1721-1729",
     "kor": "Barokk",
     "hely": "Győr",
-    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Carmelite_church_in_Gy%C5%91r_01.jpg/640px-Carmelite_church_in_Gy%C5%91r_01.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gy%C5%91r%2C_karmelita_templom_2022_02.jpg/640px-Gy%C5%91r%2C_karmelita_templom_2022_02.jpg"
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Carmelite_church_in_Gy%C5%91r_01.jpg/640px-Carmelite_church_in_Gy%C5%91r_01.jpg"
   },
   {
     "id": 172,
@@ -3129,7 +3129,7 @@
     "ev": "1979",
     "kor": "Fotó",
     "hely": "Budapest, Magyar Nemzeti Galéria",
-    "link": "https://mng.hu/app/uploads/2018/12/78749.jpg,"
+    "link": "https://mng.hu/app/uploads/2018/12/78749.jpg"
   },
   {
     "id": 349,
@@ -3167,4 +3167,5 @@
     "hely": null,
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kimsooja%2C_A_Needle_Woman_Tokyo%2C_video_still%2C_1999.jpg/640px-Kimsooja%2C_A_Needle_Woman_Tokyo%2C_video_still%2C_1999.jpg"
   }
+
 ]
