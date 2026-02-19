@@ -1,0 +1,3170 @@
+[
+  {
+    "id": 1,
+    "nev": "Stonehenge",
+    "keszito": null,
+    "ev": "Kr.e. 3000 körül",
+    "kor": "Bronzkor - Őskor",
+    "hely": "Salisbury-fennsík, Nagy-Britannia",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/1280px-Stonehenge2007_07_30.jpg"
+  },
+  {
+    "id": 2,
+    "nev": "Őskori lakóházak",
+    "keszito": null,
+    "ev": "Kr.e. 6000 körül",
+    "kor": "Őskor",
+    "hely": "Çatal-Hüyük, Jerichó, Harappa, Mohendzso-Daro",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Catal_H%C3%BCy%C3%BCk_4.JPG/640px-Catal_H%C3%BCy%C3%BCk_4.JPG"
+  },
+  {
+    "id": 3,
+    "nev": "Willendorfi Vénusz",
+    "keszito": null,
+    "ev": "Kr.e. 30000 körül",
+    "kor": "Felső paleolitikum - Őskor",
+    "hely": "Bécs, Naturhistorisches Museum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Venus_von_Willendorf_01.jpg/480px-Venus_von_Willendorf_01.jpg"
+  },
+  {
+    "id": 4,
+    "nev": "Lausseli Vénusz",
+    "keszito": null,
+    "ev": "Kr.e. 30000 körül",
+    "kor": "Felső paleolitikum - Őskor",
+    "hely": "Franciaország",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Venus_de_Laussel_expo_Art_et_Prehistoire.jpg/640px-Venus_de_Laussel_expo_Art_et_Prehistoire.jpg"
+  },
+  {
+    "id": 5,
+    "nev": "Szegvár-Tűzkövesi Sarlós isten",
+    "keszito": null,
+    "ev": null,
+    "kor": "Újkőkor - Tiszai kultúra - Őskor",
+    "hely": "Szentes, Koszta József Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ceramic_figure_of_seated_man_with_mask_and_sickle_-_Koszta_J%C3%B3zsef_Museum_59.1.1.jpg/640px-Ceramic_figure_of_seated_man_with_mask_and_sickle_-_Koszta_J%C3%B3zsef_Museum_59.1.1.jpg"
+  },
+  {
+    "id": 6,
+    "nev": "Szkíta aranyszarvas Zöldhalompusztáról",
+    "keszito": null,
+    "ev": "Kr.e. 400 körül",
+    "kor": "Vaskor - Őskor",
+    "hely": "Budapest, Magyar Nemzeti Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Szk%C3%ADta_aranyszarvas_pajzsd%C3%ADszek%2C_Z%C3%B6ldhalompuszta_%C3%A9s_T%C3%A1pi%C3%B3szentm%C3%A1rton_%28upper_deer%29.jpg/640px-Szk%C3%ADta_aranyszarvas_pajzsd%C3%ADszek%2C_Z%C3%B6ldhalompuszta_%C3%A9s_T%C3%A1pi%C3%B3szentm%C3%A1rton_%28upper_deer%29.jpg"
+  },
+  {
+    "id": 7,
+    "nev": "Őskori barlangfestmények",
+    "keszito": null,
+    "ev": "Kr.e. 15000 körül",
+    "kor": "Felső paleolitikum - Őskor",
+    "hely": "Lascaux, Altamira",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lascaux_painting.jpg/1280px-Lascaux_painting.jpg"
+  },
+  {
+    "id": 8,
+    "nev": "Gizai piramisegyüttes - különösen Kheopsz fáraó piramisa",
+    "keszito": null,
+    "ev": "Kr.e. 2600-2500 körül",
+    "kor": "Óbirodalom - Ókori Egyiptom",
+    "hely": "Giza, Egyiptom",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kheops-Pyramid.jpg/1280px-Kheops-Pyramid.jpg"
+  },
+  {
+    "id": 9,
+    "nev": "Ámon-Ré-templom",
+    "keszito": null,
+    "ev": "Kr.e. XVI-XII. század",
+    "kor": "Középbirodalom - Ókori Egyiptom",
+    "hely": "Karnak, Egyiptom",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Karnak_Tempel_Dromos_12.JPG/640px-Karnak_Tempel_Dromos_12.JPG"
+  },
+  {
+    "id": 10,
+    "nev": "II. Ramszesz sziklatemploma",
+    "keszito": null,
+    "ev": "Kr.e. 1300 körül",
+    "kor": "Újbirodalom - Ókori Egyiptom",
+    "hely": "Abu-Szimbel, Egyiptom",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/2/28/Abu_Simbel%2C_Ramesses_Temple%2C_front%2C_Egypt%2C_Oct_2004.jpg"
+  },
+  {
+    "id": 11,
+    "nev": "Írnok",
+    "keszito": null,
+    "ev": "Kr.e. III. évezred",
+    "kor": "Óbirodalom - Ókori Egyiptom",
+    "hely": "Párizs, Louvre",
+    "link": "https://collections.louvre.fr/media/cache/large/0000000021/0000006582/0000388426_OG.JPG"
+  },
+  {
+    "id": 12,
+    "nev": "Falusi bíró",
+    "keszito": null,
+    "ev": "Kr.e. III. évezred",
+    "kor": "Óbirodalom - Ókori Egyiptom",
+    "hely": "Kairó, Egyiptomi Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kaaper_DSCF0461.JPG/640px-Kaaper_DSCF0461.JPG"
+  },
+  {
+    "id": 13,
+    "nev": "Nofretete fejszobra",
+    "keszito": null,
+    "ev": "Kr.e. 1360 körül",
+    "kor": "Ókori Egyiptom",
+    "hely": "Berlin, Staatliche Museen - Charlottenburg",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nofretete_Neues_Museum.jpg/640px-Nofretete_Neues_Museum.jpg"
+  },
+  {
+    "id": 14,
+    "nev": "Anubisz szobra, Tutenchamon sírjából",
+    "keszito": null,
+    "ev": "Kr.e. 1340 körül",
+    "kor": "Ókori Egyiptom",
+    "hely": "Kairó, Egyiptomi Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tutankhamun_jackal.jpg/640px-Tutankhamun_jackal.jpg"
+  },
+  {
+    "id": 15,
+    "nev": "Echnaton fáraó családjával",
+    "keszito": null,
+    "ev": "Kr.e. 1360 körül",
+    "kor": "Aton kultusz - Ókori Egyiptom",
+    "hely": "Berlin, Staatliche Museen",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HouseAltar-AkhenatenNefertitiAndThreeOfTheirDaughters.png/640px-HouseAltar-AkhenatenNefertitiAndThreeOfTheirDaughters.png"
+  },
+  {
+    "id": 16,
+    "nev": "Medumi ludak",
+    "keszito": null,
+    "ev": "Kr.e. 2550 körül",
+    "kor": "Óbirodalom - Ókori Egyiptom",
+    "hely": "Kairó, Egyiptomi Múzeum",
+    "link": "https://i0.wp.com/egypt-museum.com/wp-content/uploads/2021/09/Meidum-Geese-02.jpg?ssl=1"
+  },
+  {
+    "id": 17,
+    "nev": "Halastó, thébai sír",
+    "keszito": null,
+    "ev": "Kr.e. 1400 körül",
+    "kor": "Ókori Egyiptom",
+    "hely": "London, British Museum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Le_Jardin_de_N%C3%A9bamoun.jpg"
+  },
+  {
+    "id": 18,
+    "nev": "Fáraó vadászaton, thébai",
+    "keszito": null,
+    "ev": "Kr.e. XIV. század",
+    "kor": "Ókori Egyiptom",
+    "hely": "London, British Museum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tomb_of_Nebamun.jpg/960px-Tomb_of_Nebamun.jpg"
+  },
+  {
+    "id": 19,
+    "nev": "Tutenchamon arany halotti maszkja",
+    "keszito": null,
+    "ev": "Kr.e. 1340 körül",
+    "kor": "Ókori Egyiptom",
+    "hely": "Kairó, Egyiptomi Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/640px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg"
+  },
+  {
+    "id": 20,
+    "nev": "Bútorok Tutenchamon sírleletéből (pl. Tutenchamon fáraó trónusa)",
+    "keszito": null,
+    "ev": "Kr.e. XIV. század",
+    "kor": "Ókori Egyiptom",
+    "hely": "Kairó, Egyiptomi Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/ETH-BIB-Tut-Ank-Amons_Treasures%2C_the_Kings_coalesiastical_throne-Dia_247-11149.tif/lossy-page1-640px-ETH-BIB-Tut-Ank-Amons_Treasures%2C_the_Kings_coalesiastical_throne-Dia_247-11149.tif.jpg"
+  },
+  {
+    "id": 21,
+    "nev": "Zikkurat",
+    "keszito": null,
+    "ev": "Kr.e. 2000 előtt",
+    "kor": "Ókori Mezopotámia",
+    "hely": "Ur",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ziggarat_of_Ur_001.jpg/1920px-Ziggarat_of_Ur_001.jpg"
+  },
+  {
+    "id": 22,
+    "nev": "Lamassu (kapuőrző démon)",
+    "keszito": null,
+    "ev": "Kr.e. VIII. század",
+    "kor": "Ókori Mezopotámia",
+    "hely": "Berlin, Staatliche Museen",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/A_pair_of_lamassus_from_the_Throne_Room%2C_Room_B%2C_of_the_North-West_Palace_at_Nimrud%2C_Iraq%2C_9th_century_BC._The_British_Museum.jpg/1920px-A_pair_of_lamassus_from_the_Throne_Room%2C_Room_B%2C_of_the_North-West_Palace_at_Nimrud%2C_Iraq%2C_9th_century_BC._The_British_Museum.jpg"
+  },
+  {
+    "id": 23,
+    "nev": "Babiloni Istaar kapu",
+    "keszito": null,
+    "ev": "Kr.e. 570 körül",
+    "kor": "Ókori Mezopotámia",
+    "hely": "Berlin, Staatliche Museen",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ishtar_Gate.gif/640px-Ishtar_Gate.gif"
+  },
+  {
+    "id": 24,
+    "nev": "Alabástrom női fej Urukból",
+    "keszito": null,
+    "ev": "Kr.e. 2800 körül",
+    "kor": "Ókori Mezopotámia",
+    "hely": "Bagdad, Irak Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Warka_Mask%2C_Iraq_Museum.jpg/640px-Warka_Mask%2C_Iraq_Museum.jpg"
+  },
+  {
+    "id": 25,
+    "nev": "Bikafejes hárfa Urból",
+    "keszito": null,
+    "ev": "Kr.e. 2500 körül",
+    "kor": "Ókori Mezopotámia",
+    "hely": "Bagdad, Irak Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/The_Queen%27s_gold_lyre_from_the_Royal_Cemetery_at_Ur._C._2500_BCE._Iraq_Museum.jpg/1280px-The_Queen%27s_gold_lyre_from_the_Royal_Cemetery_at_Ur._C._2500_BCE._Iraq_Museum.jpg"
+  },
+  {
+    "id": 26,
+    "nev": "Gudea, Lagas uralkodója italáldozatot mutat be",
+    "keszito": null,
+    "ev": "Kr.e. 2120",
+    "kor": "Ókori Mezopotámia",
+    "hely": "Párizs, Louvre",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gudea_of_Lagash_Girsu.jpg/640px-Gudea_of_Lagash_Girsu.jpg"
+  },
+  {
+    "id": 27,
+    "nev": "Sumér ékírásos tábla (vagy pecsételőhenger)",
+    "keszito": null,
+    "ev": "Kr.e. 2000 körül",
+    "kor": "Ókori Mezopotámia",
+    "hely": "London, British Museum",
+    "link": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_13/d58dc28d_d61b_4740_889e_a3bc00dc4e44/mid_00418695_001.jpg"
+  },
+  {
+    "id": 28,
+    "nev": "Knósszoszi palota",
+    "keszito": null,
+    "ev": "Kr.e. XVI. század",
+    "kor": "Ókori Görögország",
+    "hely": "Kréta",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Knossos_Westbastion_01.jpg/640px-Knossos_Westbastion_01.jpg"
+  },
+  {
+    "id": 29,
+    "nev": "Mükénei fellegvár (különösen Oroszlános kapu)",
+    "keszito": null,
+    "ev": "Kr.e. XIV-XIII. század",
+    "kor": "Ókori Görögország",
+    "hely": "Mükéné",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lion_Gate%2C_Hattusa_02.jpg/640px-Lion_Gate%2C_Hattusa_02.jpg"
+  },
+  {
+    "id": 30,
+    "nev": "Parthenon",
+    "keszito": "Pheidiasz",
+    "ev": "Kr.e. V. század",
+    "kor": "Ókori Görögország",
+    "hely": "Athén",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Postcard_of_the_Parthenon_in_Athens%2C_Greece_%2827374107025%29.jpg/640px-Postcard_of_the_Parthenon_in_Athens%2C_Greece_%2827374107025%29.jpg"
+  },
+  {
+    "id": 31,
+    "nev": "Egy görög színház (pl. delphoi vagy epidauroszi színház)",
+    "keszito": null,
+    "ev": null,
+    "kor": "Ókori Görögország",
+    "hely": "Delphi vagy Epidaurosz",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_small_Theatre_of_Epidaurus%2C_dated_to_4th_century_BC%2C_Ancient_Epidaurus_Village_%2813928612751%29.jpg/640px-The_small_Theatre_of_Epidaurus%2C_dated_to_4th_century_BC%2C_Ancient_Epidaurus_Village_%2813928612751%29.jpg"
+  },
+  {
+    "id": 32,
+    "nev": "Athéni akropolisz (különösen Niké-templom, Erechteion)",
+    "keszito": null,
+    "ev": "Kr.e. 447-434",
+    "kor": "Ókori Görögország",
+    "hely": "Athén",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acropolis_of_Athens.jpg/640px-Acropolis_of_Athens.jpg"
+  },
+  {
+    "id": 33,
+    "nev": "Zeusz oltár",
+    "keszito": null,
+    "ev": "Kr.e. 180",
+    "kor": "Ókori Görögország",
+    "hely": "Berlin, Pergamon Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Berlin_-_Pergamonmuseum_-_Altar_01.jpg/640px-Berlin_-_Pergamonmuseum_-_Altar_01.jpg"
+  },
+  {
+    "id": 34,
+    "nev": "Kurosz-szobor Athénból",
+    "keszito": null,
+    "ev": "Kr.e. 600 körül",
+    "kor": "Ókori Görögország",
+    "hely": "New York, Metropolitan Museum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kouros_NAMA_3851_Athens_Greece.jpg/640px-Kouros_NAMA_3851_Athens_Greece.jpg"
+  },
+  {
+    "id": 35,
+    "nev": "Diszkoszvető",
+    "keszito": "Mürón",
+    "ev": "Kr.e. 450 körül",
+    "kor": "Ókori Görögország",
+    "hely": "Róma, Museo Vaticano",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Roman_bronze_copy_of_Myron%E2%80%99s_Discobolos%2C_2nd_century_CE_%28Glyptothek_Munich%29.jpg/960px-Roman_bronze_copy_of_Myron%E2%80%99s_Discobolos%2C_2nd_century_CE_%28Glyptothek_Munich%29.jpg"
+  },
+  {
+    "id": 36,
+    "nev": "Lándzsavivő",
+    "keszito": "Polükleitosz",
+    "ev": "Kr.e. 450-440 körül",
+    "kor": "Ókori Görögország",
+    "hely": "Nápoly, Museo Nazionale",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Doryphoros_MAN_Napoli_Inv6011-2.jpg/640px-Doryphoros_MAN_Napoli_Inv6011-2.jpg"
+  },
+  {
+    "id": 37,
+    "nev": "Knidoszi Aphrodité",
+    "keszito": "Praxitelész",
+    "ev": "Kr.e. 350-340",
+    "kor": "Ókori Görögország",
+    "hely": "Róma, Museo Vaticano",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marble_Head_of_Aphrodite%2C_Cnidus_%28Knidos%29_Type%2C_Roman_Imperial_Era_Copy_of_Praxiteles_%2828021465250%29.jpg/640px-Marble_Head_of_Aphrodite%2C_Cnidus_%28Knidos%29_Type%2C_Roman_Imperial_Era_Copy_of_Praxiteles_%2828021465250%29.jpg"
+  },
+  {
+    "id": 38,
+    "nev": "Delphoi kocsihajtó",
+    "keszito": null,
+    "ev": "Kr.e. 470 körül",
+    "kor": "Ókori Görögország",
+    "hely": "Delphi Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Delphi_Charioteer.jpg/640px-Delphi_Charioteer.jpg"
+  },
+  {
+    "id": 39,
+    "nev": "Szamothrakéi Niké",
+    "keszito": null,
+    "ev": "Kr.e. 200 körül",
+    "kor": "Ókori Görögország",
+    "hely": "Párizs, Louvre",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Victoire_de_Samothrace_-_Musee_du_Louvre_-_20190812.jpg/640px-Victoire_de_Samothrace_-_Musee_du_Louvre_-_20190812.jpg"
+  },
+  {
+    "id": 40,
+    "nev": "Laokoón",
+    "keszito": "Rodoszi Athanadórosz, Agészandrosz és Polüdórosz",
+    "ev": "Kr.e. II. század",
+    "kor": "Ókori Görögország",
+    "hely": "Róma, Museo Vaticano",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg/640px-Laoco%C3%B6n_and_his_sons_group.jpg"
+  },
+  {
+    "id": 41,
+    "nev": "Egy feketealakos vázakép (pl. Dionüszosz és bacchánsnők ábrázolással)",
+    "keszito": null,
+    "ev": null,
+    "kor": "Ókori Görögország",
+    "hely": "Párizs, Bibliothèque Nationale",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Exekias_Dionysos_Staatliche_Antikensammlungen_2044.jpg/640px-Exekias_Dionysos_Staatliche_Antikensammlungen_2044.jpg"
+  },
+  {
+    "id": 42,
+    "nev": "Egy vörösalakos vázakép (pl. Orvietói kehelykratér Héraklész és társai)",
+    "keszito": null,
+    "ev": null,
+    "kor": "Ókori Görögország",
+    "hely": "Párizs, Louvre",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Akhilleus_Penthesileia_Staatliche_Antikensammlungen_2688.jpg/1280px-Akhilleus_Penthesileia_Staatliche_Antikensammlungen_2688.jpg"
+  },
+  {
+    "id": 43,
+    "nev": "Pergamoni Héphaiszteón padlómozaikja",
+    "keszito": null,
+    "ev": "Kr.e. 150 körül",
+    "kor": "Ókori Görögország",
+    "hely": "Berlin, Staatliche Museen",
+    "link": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.hREUKdAa2s4CpLDmVuZjjAHaDO%3Fpid%3DApi&f=1&ipt=860a8b0a06d5a66e91e29b47fcd7cf80fb8d01013be7ab2e2553868a07d415e5"
+  },
+  {
+    "id": 44,
+    "nev": "Etruszk sírszarkofág házaspár portréjával",
+    "keszito": null,
+    "ev": "Kr.e. 625",
+    "kor": "Etruszk",
+    "hely": "Róma, Museo Nazionale, Villa Giulia",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Etruscan_sarcophagus.jpg/640px-Etruscan_sarcophagus.jpg"
+  },
+  {
+    "id": 45,
+    "nev": "Colosseum",
+    "keszito": null,
+    "ev": "70-90",
+    "kor": "Római",
+    "hely": "Róma",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1280px-Colosseo_2020.jpg"
+  },
+  {
+    "id": 46,
+    "nev": "Pantheon",
+    "keszito": null,
+    "ev": "118-128 körül",
+    "kor": "Római",
+    "hely": "Róma",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pantheon_Rom_1_cropped.jpg/640px-Pantheon_Rom_1_cropped.jpg"
+  },
+  {
+    "id": 47,
+    "nev": "Vettiusok háza",
+    "keszito": null,
+    "ev": "I. század",
+    "kor": "Római",
+    "hely": "Pompei",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Antigua_ciudad_de_Pompeya%2C_Italia%2C_2023-03-27%2C_DD_210.jpg/1920px-Antigua_ciudad_de_Pompeya%2C_Italia%2C_2023-03-27%2C_DD_210.jpg"
+  },
+  {
+    "id": 48,
+    "nev": "Vesta-templom",
+    "keszito": null,
+    "ev": "I. század",
+    "kor": "Római",
+    "hely": "Róma",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Temple_of_Vesta_Forum_Romanum_Rome.jpg/640px-Temple_of_Vesta_Forum_Romanum_Rome.jpg"
+  },
+  {
+    "id": 49,
+    "nev": "Római vízvezeték (pl. Segovia, Nimes)",
+    "keszito": null,
+    "ev": null,
+    "kor": "Római",
+    "hely": "Segovia, Nimes",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pont_du_Gard_2017.jpg/640px-Pont_du_Gard_2017.jpg"
+  },
+  {
+    "id": 50,
+    "nev": "Forum Romanum rekonstrukció",
+    "keszito": null,
+    "ev": null,
+    "kor": "Római",
+    "hely": "Róma",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Forum_Romanum_from_Capitolium.jpg"
+  },
+  {
+    "id": 51,
+    "nev": "Traianus oszlopa",
+    "keszito": null,
+    "ev": "110 körül",
+    "kor": "Római",
+    "hely": "Róma",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Colonne_de_Trajan_-_Rome_%281%29.JPG/640px-Colonne_de_Trajan_-_Rome_%281%29.JPG"
+  },
+  {
+    "id": 52,
+    "nev": "Constantinus diadalíve",
+    "keszito": null,
+    "ev": "312-315 körül",
+    "kor": "Római",
+    "hely": "Róma",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Arch_of_Constantine_%28Rome%29_-_South_side%2C_from_Via_triumphalis.jpg/640px-Arch_of_Constantine_%28Rome%29_-_South_side%2C_from_Via_triumphalis.jpg"
+  },
+  {
+    "id": 53,
+    "nev": "Marcus Aurelius bronz lovasszobra",
+    "keszito": null,
+    "ev": "170 körül",
+    "kor": "Római",
+    "hely": "Róma, Museo Capitolino",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Equestrian_statue_Marcus_Aurelius_replica%2C_Capitole%2C_Rome%2C_Italy.jpg/640px-Equestrian_statue_Marcus_Aurelius_replica%2C_Capitole%2C_Rome%2C_Italy.jpg"
+  },
+  {
+    "id": 54,
+    "nev": "Egy római portrészobor (pl. Caligula, Brutus, Vespasianus, Constantinus)",
+    "keszito": null,
+    "ev": null,
+    "kor": "Római",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%28Venice%29_Bust_of_Vespasianus_-_Venice_National_Archaeological_Museum.jpg/640px-%28Venice%29_Bust_of_Vespasianus_-_Venice_National_Archaeological_Museum.jpg"
+  },
+  {
+    "id": 55,
+    "nev": "A Misztérium villa falfestmény (egy részlete)",
+    "keszito": null,
+    "ev": "Kr.e. I. század 2/3",
+    "kor": "Római",
+    "hely": "Pompei",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Via_Appia_Nuova_-_Villa_dei_Quintili_-_panoramio_%281%29.jpg/640px-Via_Appia_Nuova_-_Villa_dei_Quintili_-_panoramio_%281%29.jpg"
+  },
+  {
+    "id": 56,
+    "nev": "Santa Sabina",
+    "keszito": null,
+    "ev": "422-432",
+    "kor": "Korakeresztény",
+    "hely": "Róma",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Santa_Sabina_%28Rome%29_-_Interno.jpg/640px-Santa_Sabina_%28Rome%29_-_Interno.jpg"
+  },
+  {
+    "id": 57,
+    "nev": "San Apollinare in Classe és mozaikjai",
+    "keszito": null,
+    "ev": "VI. század",
+    "kor": "Korakeresztény",
+    "hely": "Ravenna",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Saint_Apollenaris.jpg/960px-Saint_Apollenaris.jpg"
+  },
+  {
+    "id": 58,
+    "nev": "Palotakápolna",
+    "keszito": null,
+    "ev": "805",
+    "kor": "Korakeresztény",
+    "hely": "Aachen",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aachen_Germany_Imperial-Cathedral-01.jpg/1920px-Aachen_Germany_Imperial-Cathedral-01.jpg"
+  },
+  {
+    "id": 59,
+    "nev": "Jó pásztor, mozaik",
+    "keszito": null,
+    "ev": "V. század",
+    "kor": "Korakeresztény",
+    "hely": "Ravenna, Galla Placidia",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/%22The_good_Shepherd%22_mosaic_-_Mausoleum_of_Galla_Placidia.jpg/640px-%22The_good_Shepherd%22_mosaic_-_Mausoleum_of_Galla_Placidia.jpg"
+  },
+  {
+    "id": 60,
+    "nev": "Durrow-i Kódex vagy a Kellsi kódex",
+    "keszito": null,
+    "ev": "7. század vagy VIII. század",
+    "kor": "Korakeresztény",
+    "hely": "Dublin, Trinity College",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Book_of_Durrow_folio_192v.png/960px-Book_of_Durrow_folio_192v.png"
+  },
+  {
+    "id": 61,
+    "nev": "Galgóci tarsolylemez",
+    "keszito": null,
+    "ev": "X. század",
+    "kor": "Népvándorlás kora",
+    "hely": "Budapest, Magyar Nemzeti Múzeum",
+    "link": "https://m.blog.hu/ma/magyar-tudatossag/image/galgoci_tarsolylemez.jpg"
+  },
+  {
+    "id": 62,
+    "nev": "Nagyszentmiklósi kincs",
+    "keszito": null,
+    "ev": "800 körül",
+    "kor": "Népvándorlás kora",
+    "hely": "Bécs, Kunsthistorisches Museum",
+    "link": "https://mki.gov.hu/assets/articles/2021/07/800px-khm-wien-viiib-11-bulls-head-bowl-treasure-of-nagyszentmiklos_02104644.jpg"
+  },
+  {
+    "id": 63,
+    "nev": "Sankt galleni kolostor tervrajza",
+    "keszito": null,
+    "ev": "830 körül",
+    "kor": "Népvándorlás kora",
+    "hely": "Sankt Gallen, könyvtár",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Codex_Sangallensis_1092_recto.jpg/960px-Codex_Sangallensis_1092_recto.jpg"
+  },
+  {
+    "id": 64,
+    "nev": "Germán sasfibula",
+    "keszito": null,
+    "ev": "VI. század",
+    "kor": "Népvándorlás kora",
+    "hely": "Nürnberg, Germanisches Nationalmuseum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Visigothic_-_Pair_of_Eagle_Fibula_-_Walters_54421%2C_54422.jpg/640px-Visigothic_-_Pair_of_Eagle_Fibula_-_Walters_54421%2C_54422.jpg"
+  },
+  {
+    "id": 65,
+    "nev": "Avar szíjvég (pl. klárafalvi)",
+    "keszito": null,
+    "ev": null,
+    "kor": "Népvándorlás kora",
+    "hely": "Szeged, Móra Ferenc Múzeum",
+    "link": "https://assets.4cdn.hu/kraken/82NbyUknvnv0GP9ls.jpeg"
+  },
+  {
+    "id": 66,
+    "nev": "Honfoglaló magyarok öltözete, rekonstrukció",
+    "keszito": null,
+    "ev": null,
+    "kor": "Népvándorlás kora",
+    "hely": "Budapest, Magyar Nemzeti Múzeum",
+    "link": "https://static-cdn.arcanum.com/nfo-resources/magyarviseletek_pic/magyarviseletek/s003-2.bmp"
+  },
+  {
+    "id": 67,
+    "nev": "Hagia Sophia",
+    "keszito": null,
+    "ev": "VI. század",
+    "kor": "Bizánc",
+    "hely": "Konstantinápoly (Isztambul)",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hagia_Sophia_in_Istanbul_%28focused_on_the_original_Roman_building%29.jpg/640px-Hagia_Sophia_in_Istanbul_%28focused_on_the_original_Roman_building%29.jpg"
+  },
+  {
+    "id": 68,
+    "nev": "San Vitale és mozaikjai",
+    "keszito": null,
+    "ev": "532-547, mozaikok: 574 körül",
+    "kor": "Bizánc",
+    "hely": "Ravenna",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Apse_mosaic_-_Basilica_of_San_Vitale_%28Ravenna%29.jpg/640px-Apse_mosaic_-_Basilica_of_San_Vitale_%28Ravenna%29.jpg"
+  },
+  {
+    "id": 69,
+    "nev": "Szófia Székesegyház",
+    "keszito": null,
+    "ev": "XI. század",
+    "kor": "Bizánc",
+    "hely": "Kijev",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kiev_Saint_Sophia%27s_Cathedral_%2850389500452%29.jpg/640px-Kiev_Saint_Sophia%27s_Cathedral_%2850389500452%29.jpg"
+  },
+  {
+    "id": 70,
+    "nev": "Nikopeia Istenanya",
+    "keszito": null,
+    "ev": "X. század",
+    "kor": "Bizánc",
+    "hely": "Velence, San Marco",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Apse_mosaic_Hagia_Sophia_Virgin_and_Child.jpg/960px-Apse_mosaic_Hagia_Sophia_Virgin_and_Child.jpg"
+  },
+  {
+    "id": 71,
+    "nev": "Trónoló Istenanya",
+    "keszito": null,
+    "ev": "1280 körül",
+    "kor": "Bizánc",
+    "hely": "Washington, National Gallery of Art",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cima_da_Conegliano%2C_Enthroned_Madonna_and_Child_with_Two_Virgin_Martyrs.jpg/640px-Cima_da_Conegliano%2C_Enthroned_Madonna_and_Child_with_Two_Virgin_Martyrs.jpg"
+  },
+  {
+    "id": 72,
+    "nev": "Szentháromság",
+    "keszito": "Andrej Rubljov",
+    "ev": "1430 körül",
+    "kor": "Bizánc",
+    "hely": "Moszkva, Tretyakovszkaja Galerija",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Andrej_Rubl%C3%ABv_001.jpg/640px-Andrej_Rubl%C3%ABv_001.jpg"
+  },
+  {
+    "id": 73,
+    "nev": "Sztaurotéka",
+    "keszito": null,
+    "ev": "X. század",
+    "kor": "Bizánc",
+    "hely": "Limburg, Székesegyházi Kincstár",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LM_Staurothek_cover.JPG/640px-LM_Staurothek_cover.JPG"
+  },
+  {
+    "id": 74,
+    "nev": "Maria Laach, bencés templom",
+    "keszito": null,
+    "ev": "XI-XIII. század",
+    "kor": "Romanika",
+    "hely": "Koblenz mellett",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Maria_Laach_de04.jpg/640px-Maria_Laach_de04.jpg"
+  },
+  {
+    "id": 75,
+    "nev": "Pisai dóm",
+    "keszito": null,
+    "ev": "XI-XIII. század",
+    "kor": "Romanika",
+    "hely": "Pisa",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pisa_Duomo.jpg/640px-Pisa_Duomo.jpg"
+  },
+  {
+    "id": 76,
+    "nev": "Pontigny-i ciszterci templom",
+    "keszito": null,
+    "ev": "1140-1170",
+    "kor": "Romanika",
+    "hely": "Pontigny",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Abbaye_Pontigny.jpg/1920px-Abbaye_Pontigny.jpg"
+  },
+  {
+    "id": 77,
+    "nev": "Szt. Mihály-templom",
+    "keszito": null,
+    "ev": "1033",
+    "kor": "Romanika",
+    "hely": "Hildesheim",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/St_Michael_church_in_Hildesheim_%281%29.jpg/640px-St_Michael_church_in_Hildesheim_%281%29.jpg"
+  },
+  {
+    "id": 78,
+    "nev": "Bencés apátsági templom",
+    "keszito": null,
+    "ev": "XIII. század",
+    "kor": "Romanika",
+    "hely": "Ják",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ap%C3%A1ts%C3%A1gi_templom_%288941._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_7.jpg"
+  },
+  {
+    "id": 79,
+    "nev": "Ciszterci templom",
+    "keszito": null,
+    "ev": "XIII. század eleje",
+    "kor": "Romanika",
+    "hely": "Bélapátfalva",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ciszterci_ap%C3%A1ts%C3%A1gi_templom_%28Nagyboldogasszony%29_%285433._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_7.jpg"
+  },
+  {
+    "id": 80,
+    "nev": "Csempeszkopácsi plébániatemplom",
+    "keszito": null,
+    "ev": "XIII. század 2/2",
+    "kor": "Romanika",
+    "hely": "Csempeszkopács",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Csempeszkop%C3%A1cs%2C_Szent_Mih%C3%A1ly-templom_2020_01.jpg/250px-Csempeszkop%C3%A1cs%2C_Szent_Mih%C3%A1ly-templom_2020_01.jpg"
+  },
+  {
+    "id": 81,
+    "nev": "Szent István szarkofágja",
+    "keszito": null,
+    "ev": "XI. század",
+    "kor": "Romanika",
+    "hely": "Székesfehérvár, István Király Múzeum",
+    "link": "https://bagyinszki.eu//galleries/szent_istvan_szarkofag/szent_istvan_szarkofag_14.jpg"
+  },
+  {
+    "id": 82,
+    "nev": "Háromkirályok dombormű a pisai dóm bronzkapujáról",
+    "keszito": null,
+    "ev": "XII. század",
+    "kor": "Romanika",
+    "hely": "Pisa",
+    "link": "https://s3.eu-central-1.amazonaws.com/kozterkep/photos/12f205aee48b0e094911ed101ca8c160_1.jpg"
+  },
+  {
+    "id": 83,
+    "nev": "Maiestas Domini, San Clemente apszisából",
+    "keszito": null,
+    "ev": "1123 körül",
+    "kor": "Romanika",
+    "hely": "Barcelona, Katalán Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%28Barcelona%29_Frescos_of_Sant_Climent_de_Ta%C3%BCll.jpg/330px-%28Barcelona%29_Frescos_of_Sant_Climent_de_Ta%C3%BCll.jpg"
+  },
+  {
+    "id": 84,
+    "nev": "Koronázási palást",
+    "keszito": null,
+    "ev": "XI. század",
+    "kor": "Romanika",
+    "hely": "Budapest, Magyar Nemzeti Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Coronation_Pall_of_Hungary.jpg/640px-Coronation_Pall_of_Hungary.jpg"
+  },
+  {
+    "id": 85,
+    "nev": "Bayeux-i kárpit",
+    "keszito": null,
+    "ev": "1080 körül",
+    "kor": "Romanika",
+    "hely": "Bayeux, Bibliothèque Municipale",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bayeux_Tapestry_WillelmDux.jpg/640px-Bayeux_Tapestry_WillelmDux.jpg"
+  },
+  {
+    "id": 86,
+    "nev": "Magyar Szent Korona",
+    "keszito": null,
+    "ev": "XI-XIII. század",
+    "kor": "Romanika",
+    "hely": "Budapest, Parlament",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/A_Szent_Korona_el%C3%B6lr%C5%91l_2.jpg/640px-A_Szent_Korona_el%C3%B6lr%C5%91l_2.jpg"
+  },
+  {
+    "id": 87,
+    "nev": "Királyfej Kalocsáról",
+    "keszito": null,
+    "ev": "XIII. század",
+    "kor": "Romanika",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2018/10/66704.jpg"
+  },
+  {
+    "id": 88,
+    "nev": "Winchesteri biblia (H-iniciálé)",
+    "keszito": null,
+    "ev": "1150-1160",
+    "kor": "Romanika",
+    "hely": "Winchester, Cathedral Library",
+    "link": "https://parkerstudios.weebly.com/uploads/1/3/6/6/13664946/winchester-bible-h_orig.jpg"
+  },
+  {
+    "id": 89,
+    "nev": "Párizsi Notre Dame",
+    "keszito": null,
+    "ev": "1163-1250",
+    "kor": "Gótika",
+    "hely": "Párizs",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/a/ab/NotreDameI.jpg"
+  },
+  {
+    "id": 90,
+    "nev": "Amiens-i székesegyház",
+    "keszito": null,
+    "ev": "1236-(1389)",
+    "kor": "Gótika",
+    "hely": "Amiens",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Amiens_France_Cath%C3%A9drale-Notre-Dame-d-Amiens-03d.jpg/640px-Amiens_France_Cath%C3%A9drale-Notre-Dame-d-Amiens-03d.jpg"
+  },
+  {
+    "id": 91,
+    "nev": "Chartres-i székesegyház",
+    "keszito": null,
+    "ev": "1194-1220",
+    "kor": "Gótika",
+    "hely": "Chartres",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chartres_-_portail_royal%2C_tympan_central.jpg/640px-Chartres_-_portail_royal%2C_tympan_central.jpg"
+  },
+  {
+    "id": 92,
+    "nev": "Ca d'Oro palota",
+    "keszito": null,
+    "ev": "XV. század",
+    "kor": "Gótika",
+    "hely": "Velence",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ca%27_d%27Oro_facciata.jpg/1280px-Ca%27_d%27Oro_facciata.jpg"
+  },
+  {
+    "id": 93,
+    "nev": "Cambridge-i King's College Chapel",
+    "keszito": null,
+    "ev": "1446-1515",
+    "kor": "Gótika",
+    "hely": "Cambridge",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/f/fd/KingsCollegeChapel.jpg"
+  },
+  {
+    "id": 94,
+    "nev": "Szent Vitus székesegyház",
+    "keszito": null,
+    "ev": "XIV. század",
+    "kor": "Gótika",
+    "hely": "Prága",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/2014_Praga%2C_katedra_%C5%9Bw._Wita.jpg/640px-2014_Praga%2C_katedra_%C5%9Bw._Wita.jpg"
+  },
+  {
+    "id": 95,
+    "nev": "Nyírbátori (ma) református templom",
+    "keszito": null,
+    "ev": "XV. század vége",
+    "kor": "Gótika",
+    "hely": "Nyírbátor",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ny%C3%ADrb%C3%A1tor_l%C3%A9gifot%C3%B31.jpg"
+  },
+  {
+    "id": 96,
+    "nev": "Veleméri templom",
+    "keszito": null,
+    "ev": "XIV. század",
+    "kor": "Gótika",
+    "hely": "Velemér",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/3/31/R.k._templom_%289510._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29.jpg"
+  },
+  {
+    "id": 97,
+    "nev": "Vajdahunyad vár",
+    "keszito": null,
+    "ev": "XV. század",
+    "kor": "Gótika",
+    "hely": "Vajdahunyad (Hunedoara)",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vajdahunyad_v%C3%A1ra_Budapest_September_2013.jpg/1920px-Vajdahunyad_v%C3%A1ra_Budapest_September_2013.jpg"
+  },
+  {
+    "id": 98,
+    "nev": "Utolsó ítélet, Szent Erzsébet-templom északi kapuzata",
+    "keszito": null,
+    "ev": "XV. század 1/2",
+    "kor": "Gótika",
+    "hely": "Kassa",
+    "link": "https://en.mng.hu/app/uploads/2025/10/290567.jpg"
+  },
+  {
+    "id": 99,
+    "nev": "Uta és Ekkehard szobra",
+    "keszito": null,
+    "ev": "1250",
+    "kor": "Gótika",
+    "hely": "Naumburg, dóm",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Naumburg_Ekkehard_und_Uta.jpg/640px-Naumburg_Ekkehard_und_Uta.jpg"
+  },
+  {
+    "id": 100,
+    "nev": "Mária oltár",
+    "keszito": "Veit Stoss",
+    "ev": "1477-1483 körül",
+    "kor": "Gótika",
+    "hely": "Krakkó, Mária-templom",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/St._Mary%27s_Church%2C_Krakow_2014-08-12-180.jpg/640px-St._Mary%27s_Church%2C_Krakow_2014-08-12-180.jpg"
+  },
+  {
+    "id": 101,
+    "nev": "Szent György",
+    "keszito": "Kolozsvári Márton és György",
+    "ev": "1373",
+    "kor": "Gótika",
+    "hely": "Prága, Národni Galeri",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pr%C3%A1ga%2C_Szent_Gy%C3%B6rgy_szobor%2C_eredeti.jpg/1920px-Pr%C3%A1ga%2C_Szent_Gy%C3%B6rgy_szobor%2C_eredeti.jpg"
+  },
+  {
+    "id": 102,
+    "nev": "Mária halála a Chartres-i katedrálisról (üvegablak)",
+    "keszito": null,
+    "ev": "XIII. század",
+    "kor": "Gótika",
+    "hely": "Chartres",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Vitrail_Chartres_210209_07.jpg/640px-Vitrail_Chartres_210209_07.jpg"
+  },
+  {
+    "id": 103,
+    "nev": "Trónoló Madonna",
+    "keszito": "Cimabue",
+    "ev": "XIII. század vége",
+    "kor": "Gótika",
+    "hely": "Firenze, Uffizi",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Madonna_Enthroned_with_the_Child_St_Francis_St_Domenico_and_two_Angels%2C_Cimabue.jpg/640px-Madonna_Enthroned_with_the_Child_St_Francis_St_Domenico_and_two_Angels%2C_Cimabue.jpg"
+  },
+  {
+    "id": 104,
+    "nev": "Szent Ferenc élete, freskósorozat",
+    "keszito": "Giotto",
+    "ev": "XIII. század vége",
+    "kor": "Gótika",
+    "hely": "Assisi, San Francesco",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg/640px-Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg,"
+  },
+  {
+    "id": 105,
+    "nev": "Angyali Üdvözlet",
+    "keszito": "Simone Martini, Lippo Memmi",
+    "ev": "1323",
+    "kor": "Gótika",
+    "hely": "Firenze, Uffizi",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Simone_Martini_and_Lippo_Memmi_-_The_Annunciation_and_Two_Saints_-_WGA15010.jpg/640px-Simone_Martini_and_Lippo_Memmi_-_The_Annunciation_and_Two_Saints_-_WGA15010.jpg"
+  },
+  {
+    "id": 106,
+    "nev": "Kálvária",
+    "keszito": "Kolozsvári Tamás",
+    "ev": "1427",
+    "kor": "Gótika",
+    "hely": "Esztergom, Keresztény Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kolozsv%C3%A1ri_Tam%C3%A1s_-_Keresztrefesz%C3%ADt%C3%A9s_-_K%C3%A1lv%C3%A1ria_Zsigmond_kir%C3%A1llyal%2C_Garamszentbenedek%2C_1427.jpg/640px-Kolozsv%C3%A1ri_Tam%C3%A1s_-_Keresztrefesz%C3%ADt%C3%A9s_-_K%C3%A1lv%C3%A1ria_Zsigmond_kir%C3%A1llyal%2C_Garamszentbenedek%2C_1427.jpg"
+  },
+  {
+    "id": 107,
+    "nev": "Mária és Erzsébet találkozása a Selmecbányai oltárról",
+    "keszito": "M. S. Mester",
+    "ev": "1508",
+    "kor": "Gótika",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Master_MS%2C_Marten_Schwartz_-_The_Visitation%2C_from_Selmecb%C3%A1nya_-_Google_Art_Project.jpg/640px-Master_MS%2C_Marten_Schwartz_-_The_Visitation%2C_from_Selmecb%C3%A1nya_-_Google_Art_Project.jpg"
+  },
+  {
+    "id": 108,
+    "nev": "Lőcsei Szent Jakab-templom főoltára",
+    "keszito": "Lőcsei Pál",
+    "ev": "1508-1517",
+    "kor": "Gótika",
+    "hely": "Lőcse",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/St._James%2C_Levo%C4%8Da%2C_Main_altar%2C_2017_v3.jpg/640px-St._James%2C_Levo%C4%8Da%2C_Main_altar%2C_2017_v3.jpg"
+  },
+  {
+    "id": 109,
+    "nev": "Wilton diptichon",
+    "keszito": null,
+    "ev": "1400 körül",
+    "kor": "Gótika",
+    "hely": "London, National Gallery",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Wilton_diptych.jpg/640px-Wilton_diptych.jpg"
+  },
+  {
+    "id": 110,
+    "nev": "Avignoni Pietà",
+    "keszito": null,
+    "ev": "XV. század",
+    "kor": "Gótika",
+    "hely": "Párizs, Louvre",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/a/a4/F0082_Louvre_Piet%C3%A0_de_Villeneuve-l%C3%A8s-Avignon_RF_1569_rwk_B.jpg"
+  },
+  {
+    "id": 111,
+    "nev": "Május, Berry herceg hóráskönyvéből",
+    "keszito": "Limbourg fivérek",
+    "ev": "1410 körül",
+    "kor": "Gótika",
+    "hely": "Chantilly, Musée Condé",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fr%C3%A8res_Limbourg_-_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_-_mois_de_mai_-_Google_Art_Project.jpg/640px-Fr%C3%A8res_Limbourg_-_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_-_mois_de_mai_-_Google_Art_Project.jpg"
+  },
+  {
+    "id": 112,
+    "nev": "Magyar Anjou Legendárium",
+    "keszito": null,
+    "ev": "XIV. század 1/2",
+    "kor": "Gótika",
+    "hely": "Róma, Museo Vaticano; New York, Morgan Library; Szentpétervár, Ermitázs",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Manuscript_Leaf_with_Scenes_from_the_Life_of_Saint_Francis_of_Assisi_MET_DT3784.jpg/640px-Manuscript_Leaf_with_Scenes_from_the_Life_of_Saint_Francis_of_Assisi_MET_DT3784.jpg"
+  },
+  {
+    "id": 113,
+    "nev": "Képes Krónika",
+    "keszito": null,
+    "ev": "1360 körül",
+    "kor": "Gótika",
+    "hely": "Budapest, Országos Széchényi Könyvtár",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Battle1330.jpg/640px-Battle1330.jpg"
+  },
+  {
+    "id": 114,
+    "nev": "Szent László fejereklyetartó",
+    "keszito": null,
+    "ev": "1425 előtt",
+    "kor": "Gótika",
+    "hely": "Győr, Székesegyház",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/c/c8/King_St._Ladislaus.jpg"
+  },
+  {
+    "id": 115,
+    "nev": "Suki-kehely",
+    "keszito": null,
+    "ev": "XV. század közepe",
+    "kor": "Gótika",
+    "hely": "Esztergom, Főszékesegyházi Kincstár",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Suki_kehely.jpg"
+  },
+  {
+    "id": 116,
+    "nev": "Az egyszarvú legendája, gobelinsorozat",
+    "keszito": null,
+    "ev": null,
+    "kor": "Gótika",
+    "hely": "Párizs, Musée Cluny",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/La_Dame_%C3%A0_la_Licorne_%C3%A0_mon_seul_d%C3%A9sir.jpg/640px-La_Dame_%C3%A0_la_Licorne_%C3%A0_mon_seul_d%C3%A9sir.jpg"
+  },
+  {
+    "id": 117,
+    "nev": "Szent László legenda",
+    "keszito": null,
+    "ev": "1420-as évek",
+    "kor": "Gótika",
+    "hely": "Kakaslomnic",
+    "link": "https://csemadok.sk/tmp-memorial/19_27571_1024x683.jpg"
+  },
+  {
+    "id": 118,
+    "nev": "Santa Maria del Fiore",
+    "keszito": null,
+    "ev": "1296-1436",
+    "kor": "Reneszánsz",
+    "hely": "Firenze",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brunelleschi%27s_Dome_on_June_1%2C_2009.jpg/640px-Brunelleschi%27s_Dome_on_June_1%2C_2009.jpg"
+  },
+  {
+    "id": 119,
+    "nev": "Ospedale degli Innocenti",
+    "keszito": "Filippo Brunelleschi",
+    "ev": "1421 körül",
+    "kor": "Reneszánsz",
+    "hely": "Firenze",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Florence%2C_Piazza_SS_Annunziata_with_Ospedale_degli_Innocenti_%281419-39%29_and_part_of_SS_Annunziata_%281601%29.jpg/1920px-Florence%2C_Piazza_SS_Annunziata_with_Ospedale_degli_Innocenti_%281419-39%29_and_part_of_SS_Annunziata_%281601%29.jpg"
+  },
+  {
+    "id": 120,
+    "nev": "Palazzo Strozzi",
+    "keszito": "Benedetto da Maiano - Cronaca",
+    "ev": "1498-1508",
+    "kor": "Reneszánsz",
+    "hely": "Firenze",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Florence%2C_Palazzo_Strozzi%2C_North_and_West_facade%2C_Benedetto_da_Maiano%2C_1489-1538.jpg/1920px-Florence%2C_Palazzo_Strozzi%2C_North_and_West_facade%2C_Benedetto_da_Maiano%2C_1489-1538.jpg"
+  },
+  {
+    "id": 121,
+    "nev": "Tempietto",
+    "keszito": "Donato Bramante",
+    "ev": "1502-1505 körül",
+    "kor": "Reneszánsz",
+    "hely": "Róma (San Pietro in Montorio kolostor)",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sant%27Antonio_di_Padova_e_tempietto_del_Bramante_%28Rimini%29.JPG/640px-Sant%27Antonio_di_Padova_e_tempietto_del_Bramante_%28Rimini%29.JPG"
+  },
+  {
+    "id": 122,
+    "nev": "Villa Rotonda",
+    "keszito": "Andrea Palladio",
+    "ev": "1550 után",
+    "kor": "Reneszánsz",
+    "hely": "Vicenza mellett",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/07-Villa-Rotonda-Palladio.jpg/640px-07-Villa-Rotonda-Palladio.jpg"
+  },
+  {
+    "id": 123,
+    "nev": "Palazzo Farnese",
+    "keszito": "Antonio da Sangallo - Michelangelo",
+    "ev": "1514-1550",
+    "kor": "Reneszánsz",
+    "hely": "Róma",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Palais_Farnese.jpg/1920px-Palais_Farnese.jpg"
+  },
+  {
+    "id": 124,
+    "nev": "Loire menti reneszánsz kastély: Chenanceaux",
+    "keszito": null,
+    "ev": "1515 körül",
+    "kor": "Reneszánsz",
+    "hely": "Franciaország",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Chateau_de_Chenonceau_2008E_%28adjusted2%29.jpg/960px-Chateau_de_Chenonceau_2008E_%28adjusted2%29.jpg"
+  },
+  {
+    "id": 125,
+    "nev": "Vaszilij Blazsennij székesegyház",
+    "keszito": null,
+    "ev": "XVI. század",
+    "kor": "Reneszánsz",
+    "hely": "Moszkva",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg/1280px-Saint_Basil%27s_Cathedral_in_Moscow.jpg"
+  },
+  {
+    "id": 126,
+    "nev": "Budai vár és királyi palota",
+    "keszito": null,
+    "ev": "XIV-XVI. század és XVIII. század, XIX-XX. század",
+    "kor": "Reneszánsz",
+    "hely": "Budapest",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Budav%C3%A1r.jpg/640px-Budav%C3%A1r.jpg"
+  },
+  {
+    "id": 127,
+    "nev": "Visegrádi királyi palota",
+    "keszito": null,
+    "ev": "XIV-XV. század",
+    "kor": "Reneszánsz",
+    "hely": "Visegrád",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Kir%C3%A1lyi_palota_maradv%C3%A1nyai_%287594._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_6.jpg"
+  },
+  {
+    "id": 128,
+    "nev": "Bakócz-kápolna",
+    "keszito": null,
+    "ev": "1506-1507",
+    "kor": "Reneszánsz",
+    "hely": "Esztergom",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Esztergom%2C_Bazilika%2C_Bak%C3%B3cz-k%C3%A1polna._Fortepan_9548.jpg/640px-Esztergom%2C_Bazilika%2C_Bak%C3%B3cz-k%C3%A1polna._Fortepan_9548.jpg"
+  },
+  {
+    "id": 129,
+    "nev": "Sárospataki vár",
+    "keszito": null,
+    "ev": "XVI-XVII. század",
+    "kor": "Reneszánsz",
+    "hely": "Sárospatak",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/S%C3%A1rospatak_-_Castle.jpg/640px-S%C3%A1rospatak_-_Castle.jpg"
+  },
+  {
+    "id": 130,
+    "nev": "A firenzei Battistero bronzkapuja (Porta del Paradiso)",
+    "keszito": "Lorenzo Ghiberti",
+    "ev": "1430-as évek",
+    "kor": "Reneszánsz",
+    "hely": "Firenze",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Firenze_-_Florence_-_Piazza_di_San_Giovanni_-_Photo_compilation_of_the_Gates_of_Paradise_1452_by_Lorenzo_Ghiberti_%28Copy_2006%29_-_April_2010.jpg/640px-Firenze_-_Florence_-_Piazza_di_San_Giovanni_-_Photo_compilation_of_the_Gates_of_Paradise_1452_by_Lorenzo_Ghiberti_%28Copy_2006%29_-_April_2010.jpg"
+  },
+  {
+    "id": 131,
+    "nev": "Gattamelata lovasszobra",
+    "keszito": "Donatello",
+    "ev": "1447-1453 körül",
+    "kor": "Reneszánsz",
+    "hely": "Padova",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Replica_of_Donatello%27s_Gattamelata_in_the_Pushkin_Museum_02_by_shakko.jpg/640px-Replica_of_Donatello%27s_Gattamelata_in_the_Pushkin_Museum_02_by_shakko.jpg"
+  },
+  {
+    "id": 132,
+    "nev": "Colleoni zsoldosvezér lovasszobra",
+    "keszito": "Andrea del Verrocchio",
+    "ev": "1480-as évek",
+    "kor": "Reneszánsz",
+    "hely": "Velence",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bartolomeo_Colleoni_by_Andrea_del_Verrocchio.jpg/640px-Bartolomeo_Colleoni_by_Andrea_del_Verrocchio.jpg"
+  },
+  {
+    "id": 133,
+    "nev": "Pietà",
+    "keszito": "Michelangelo Buonarroti",
+    "ev": "1498",
+    "kor": "Reneszánsz",
+    "hely": "Róma, San Pietro",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pieta_de_Michelangelo_-_Vaticano.jpg/500px-Pieta_de_Michelangelo_-_Vaticano.jpg"
+  },
+  {
+    "id": 134,
+    "nev": "Dávid",
+    "keszito": "Michelangelo Buonarroti",
+    "ev": "1504",
+    "kor": "Reneszánsz",
+    "hely": "Firenze, Accademia",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg/960px-%27David%27_by_Michelangelo_Fir_JBU004.jpg"
+  },
+  {
+    "id": 135,
+    "nev": "Lorenzo Medici síremléke",
+    "keszito": "Michelangelo Buonarroti",
+    "ev": "1525",
+    "kor": "Reneszánsz",
+    "hely": "Firenze, San Lorenzo-templom sekrestyéje",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tomb_of_Lorenzo%2C_Duke_of_Urbino%2C_New_Sacristy_%28Medici_Chapel%29%2C_San_Lorenzo%2C_Florence_%282%29_%2848768615417%29.jpg/640px-Tomb_of_Lorenzo%2C_Duke_of_Urbino%2C_New_Sacristy_%28Medici_Chapel%29%2C_San_Lorenzo%2C_Florence_%282%29_%2848768615417%29.jpg"
+  },
+  {
+    "id": 136,
+    "nev": "Dávid",
+    "keszito": "Donatello",
+    "ev": "1430-1435",
+    "kor": "Reneszánsz",
+    "hely": "Firenze, Museo Nazionale",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Florenz_-_Bargello_2014-08-09r.jpg/960px-Florenz_-_Bargello_2014-08-09r.jpg"
+  },
+  {
+    "id": 137,
+    "nev": "Visegrádi Madonna",
+    "keszito": null,
+    "ev": "1480 körül",
+    "kor": "Reneszánsz",
+    "hely": "Visegrád, Mátyás Király Múzeum",
+    "link": "https://balatonimuzeum.hu/wp-content/gallery/a-kovekrol/3kep.jpg"
+  },
+  {
+    "id": 138,
+    "nev": "Szentháromság",
+    "keszito": "Masaccio",
+    "ev": "1427 körül",
+    "kor": "Reneszánsz",
+    "hely": "Firenze, Santa Maria Novella",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Masaccio_trinity.jpg"
+  },
+  {
+    "id": 139,
+    "nev": "Krisztus levétele a keresztről",
+    "keszito": "Fra Angelico",
+    "ev": "1437-1440",
+    "kor": "Reneszánsz",
+    "hely": "Firenze, Museo San Marco",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fra_Angelico_073.jpg/640px-Fra_Angelico_073.jpg"
+  },
+  {
+    "id": 140,
+    "nev": "Krisztus ostorozása",
+    "keszito": "Piero della Francesca",
+    "ev": "1470 körül",
+    "kor": "Reneszánsz",
+    "hely": "Urbino, Palazzo Ducale",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piero_della_Francesca_042.jpg/640px-Piero_della_Francesca_042.jpg"
+  },
+  {
+    "id": 141,
+    "nev": "Vénusz születése",
+    "keszito": "Sandro Botticelli",
+    "ev": "1485 körül",
+    "kor": "Reneszánsz",
+    "hely": "Firenze, Uffizi",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sandro_Botticelli_046.jpg/640px-Sandro_Botticelli_046.jpg"
+  },
+  {
+    "id": 142,
+    "nev": "Angyali üdvözlet",
+    "keszito": "Carlo Crivelli",
+    "ev": "1486",
+    "kor": "Reneszánsz",
+    "hely": "London, National Gallery",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Annunciation%2C_with_Saint_Emidius_-_Carlo_Crivelli_-_National_Gallery.jpg/640px-The_Annunciation%2C_with_Saint_Emidius_-_Carlo_Crivelli_-_National_Gallery.jpg"
+  },
+  {
+    "id": 143,
+    "nev": "Pietà",
+    "keszito": "Andrea Mantegna",
+    "ev": "1506",
+    "kor": "Reneszánsz",
+    "hely": "Milánó, Brera",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Milan_pinacoth%C3%A8que_Lamentation_of_Christ_par_Mantegna.jpg/640px-Milan_pinacoth%C3%A8que_Lamentation_of_Christ_par_Mantegna.jpg"
+  },
+  {
+    "id": 144,
+    "nev": "Utolsó vacsora",
+    "keszito": "Leonardo da Vinci",
+    "ev": "1495-1497",
+    "kor": "Reneszánsz",
+    "hely": "Milánó, Santa Maria delle Grazie kolostor refektóriuma",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg/1920px-The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg"
+  },
+  {
+    "id": 145,
+    "nev": "Szent Anna harmadmagával",
+    "keszito": "Leonardo da Vinci",
+    "ev": "1498",
+    "kor": "Reneszánsz",
+    "hely": "London, National Gallery",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Virgin_and_Child_with_St._Anne_by_Leonardo_da_Vinci.JPG/640px-Virgin_and_Child_with_St._Anne_by_Leonardo_da_Vinci.JPG"
+  },
+  {
+    "id": 146,
+    "nev": "Mona Lisa",
+    "keszito": "Leonardo da Vinci",
+    "ev": "1503-1505",
+    "kor": "Reneszánsz",
+    "hely": "Párizs, Louvre",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
+  },
+  {
+    "id": 147,
+    "nev": "Esterházy Madonna",
+    "keszito": "Raffaello Santi",
+    "ev": "1507-1508",
+    "kor": "Reneszánsz",
+    "hely": "Budapest, Szépművészeti Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Raffaello_Santi_-_Madonna_and_Child_with_the_Infant_Saint_John_-_Google_Art_Project.jpg/640px-Raffaello_Santi_-_Madonna_and_Child_with_the_Infant_Saint_John_-_Google_Art_Project.jpg"
+  },
+  {
+    "id": 148,
+    "nev": "Athéni iskola",
+    "keszito": "Raffaello Santi",
+    "ev": "1509-1510",
+    "kor": "Reneszánsz",
+    "hely": "Vatikán, Stanza della Segnatura",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1920px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"
+  },
+  {
+    "id": 149,
+    "nev": "Utolsó ítélet",
+    "keszito": "Michelangelo Buonarroti",
+    "ev": "1537-1541",
+    "kor": "Reneszánsz",
+    "hely": "Vatikán, Capella Sistina",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/CAPPELLA_SISTINA_Ceiling.jpg/640px-CAPPELLA_SISTINA_Ceiling.jpg"
+  },
+  {
+    "id": 150,
+    "nev": "A Vihar",
+    "keszito": "Giorgione",
+    "ev": "1506 körül",
+    "kor": "Reneszánsz",
+    "hely": "Velence, Accademia",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Giorgione_-_Das_Gewitter.jpg/960px-Giorgione_-_Das_Gewitter.jpg"
+  },
+  {
+    "id": 151,
+    "nev": "Urbinói Vénusz",
+    "keszito": "Tiziano Vecellio",
+    "ev": "1538",
+    "kor": "Reneszánsz",
+    "hely": "Firenze, Uffizi",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tizian_-_Venus_von_Urbino.jpg"
+  },
+  {
+    "id": 152,
+    "nev": "Sótartó",
+    "keszito": "Benvenuto Cellini",
+    "ev": "1543",
+    "kor": "Reneszánsz",
+    "hely": "Bécs, Hofmuseum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Saliera_Cellini_Vienna_18_04_2013_01_B.jpg/640px-Saliera_Cellini_Vienna_18_04_2013_01_B.jpg"
+  },
+  {
+    "id": 153,
+    "nev": "Nyírbátori stallum",
+    "keszito": null,
+    "ev": "1511",
+    "kor": "Reneszánsz",
+    "hely": "Budapest, Magyar Nemzeti Múzeum",
+    "link": "https://bagyinszki.eu/galleries/budapest_magyar_nemzeti_muzeum_nyirbatori_stallum_reneszansz/image00015.jpg"
+  },
+  {
+    "id": 154,
+    "nev": "Arnolfini házaspár",
+    "keszito": "Jan van Eyck",
+    "ev": "1433",
+    "kor": "Reneszánsz",
+    "hely": "London, National Gallery",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/640px-Van_Eyck_-_Arnolfini_Portrait.jpg"
+  },
+  {
+    "id": 155,
+    "nev": "Angyali üdvözlet",
+    "keszito": "Rogier van der Weyden",
+    "ev": null,
+    "kor": "Reneszánsz",
+    "hely": "Párizs, Louvre",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rogier_van_der_Weyden_-_Annunciation_Triptych_-_WGA25590.jpg"
+  },
+  {
+    "id": 156,
+    "nev": "Portinari oltár",
+    "keszito": "Hugo van der Goes",
+    "ev": "1475 körül",
+    "kor": "Reneszánsz",
+    "hely": "Firenze, Uffizi",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Portinari_Triptych.jpg/640px-The_Portinari_Triptych.jpg"
+  },
+  {
+    "id": 157,
+    "nev": "Szénásszekér",
+    "keszito": "Hieronymus Bosch",
+    "ev": "1480-1485",
+    "kor": "Reneszánsz",
+    "hely": "Madrid, Prado",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/The_Haywain_Triptych%2C_ca._1516.jpg/640px-The_Haywain_Triptych%2C_ca._1516.jpg"
+  },
+  {
+    "id": 158,
+    "nev": "Önarckép",
+    "keszito": "Albrecht Dürer",
+    "ev": "1498",
+    "kor": "Reneszánsz",
+    "hely": "Madrid, Prado",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/960px-D%C3%BCrer_Alte_Pinakothek.jpg"
+  },
+  {
+    "id": 159,
+    "nev": "Melankólia",
+    "keszito": "Albrecht Dürer",
+    "ev": "1514",
+    "kor": "Reneszánsz",
+    "hely": "Berlin, Staatliche Museen",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_%28_AGDdr3EHmNGyA%29.jpg/960px-Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_%28_AGDdr3EHmNGyA%29.jpg"
+  },
+  {
+    "id": 160,
+    "nev": "Keresztrefeszítés az isenheimi oltárról",
+    "keszito": "Mathias Grünewald",
+    "ev": "1515",
+    "kor": "Reneszánsz",
+    "hely": "Colmar, Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mus%C3%A9e_Unterlinden_-_Matthias_Gr%C3%BCnewald_-_retable_d%27Issenheim_-_Saint_S%C3%A9bastien%2C_Crucifixion%2C_Saint_Antoine_abb%C3%A9_%26_D%C3%A9position_%281512-1516%29_%281%29.jpg/1920px-Mus%C3%A9e_Unterlinden_-_Matthias_Gr%C3%BCnewald_-_retable_d%27Issenheim_-_Saint_S%C3%A9bastien%2C_Crucifixion%2C_Saint_Antoine_abb%C3%A9_%26_D%C3%A9position_%281512-1516%29_%281%29.jpg"
+  },
+  {
+    "id": 161,
+    "nev": "Francia követek képmása (Jean de Dinteville és Georges de Selve)",
+    "keszito": "ifj. Hans Holbein",
+    "ev": "1533",
+    "kor": "Reneszánsz",
+    "hely": "London, National Gallery",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg/640px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+  },
+  {
+    "id": 162,
+    "nev": "Téli vadászat",
+    "keszito": "id. Pieter Bruegel",
+    "ev": "1565",
+    "kor": "Reneszánsz",
+    "hely": "Bécs, Kunsthistorisches Museum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg/1920px-Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg"
+  },
+  {
+    "id": 163,
+    "nev": "Parasztlakodalom",
+    "keszito": "id. Pieter Bruegel",
+    "ev": "1567",
+    "kor": "Reneszánsz",
+    "hely": "Bécs, Kunsthistorisches Museum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project_2.jpg/640px-Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project_2.jpg"
+  },
+  {
+    "id": 164,
+    "nev": "Krisztus az olajfák hegyén",
+    "keszito": "El Greco",
+    "ev": "1579 után",
+    "kor": "Reneszánsz",
+    "hely": "Budapest, Szépművészeti Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/El_Greco_019.jpg/640px-El_Greco_019.jpg"
+  },
+  {
+    "id": 165,
+    "nev": "Toledói Eleonóra",
+    "keszito": "Angelo Bronzino",
+    "ev": "XVI. század vége",
+    "kor": "Reneszánsz",
+    "hely": "Firenze, Uffizi",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bronzino_-_Eleonora_di_Toledo_col_figlio_Giovanni_-_Google_Art_Project.jpg/640px-Bronzino_-_Eleonora_di_Toledo_col_figlio_Giovanni_-_Google_Art_Project.jpg"
+  },
+  {
+    "id": 166,
+    "nev": "Il Gesù homlokzata",
+    "keszito": "Giacomo della Porta",
+    "ev": "XVI. század vége",
+    "kor": "Barokk",
+    "hely": "Róma",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Il_Gesu.jpg"
+  },
+  {
+    "id": 167,
+    "nev": "Szent Péter tér",
+    "keszito": "Lorenzo Bernini",
+    "ev": "1656-tól",
+    "kor": "Barokk",
+    "hely": "Róma",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Romevatican.JPG/1920px-Romevatican.JPG"
+  },
+  {
+    "id": 168,
+    "nev": "San Carlo alle Quattro Fontane",
+    "keszito": "Francesco Borromini",
+    "ev": "1667",
+    "kor": "Barokk",
+    "hely": "Róma",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/San_Carlo_alle_Quattro_Fontane_-_Front.jpg/960px-San_Carlo_alle_Quattro_Fontane_-_Front.jpg"
+  },
+  {
+    "id": 169,
+    "nev": "A Versailles-i palota",
+    "keszito": "Jules Hardouin-Mansart",
+    "ev": "1678 után",
+    "kor": "Barokk",
+    "hely": "Versailles",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chateau_Versailles_Galerie_des_Glaces.jpg/640px-Chateau_Versailles_Galerie_des_Glaces.jpg"
+  },
+  {
+    "id": 170,
+    "nev": "Drezdai Zwinger",
+    "keszito": null,
+    "ev": "1711-1722",
+    "kor": "Barokk",
+    "hely": "Drezda",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dresden_Germany_Zwinger-01.jpg/1920px-Dresden_Germany_Zwinger-01.jpg"
+  },
+  {
+    "id": 171,
+    "nev": "Győri karmelita templom",
+    "keszito": null,
+    "ev": "1721-1729",
+    "kor": "Barokk",
+    "hely": "Győr",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Carmelite_church_in_Gy%C5%91r_01.jpg/640px-Carmelite_church_in_Gy%C5%91r_01.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gy%C5%91r%2C_karmelita_templom_2022_02.jpg/640px-Gy%C5%91r%2C_karmelita_templom_2022_02.jpg"
+  },
+  {
+    "id": 172,
+    "nev": "Esterházy-kastély",
+    "keszito": null,
+    "ev": "XVIII. század",
+    "kor": "Barokk",
+    "hely": "Fertőd",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Esterh%C3%A1zy_Palace%2C_Fert%C5%91d%2C_20220426_1053_5444.jpg/640px-Esterh%C3%A1zy_Palace%2C_Fert%C5%91d%2C_20220426_1053_5444.jpg"
+  },
+  {
+    "id": 173,
+    "nev": "Santa Maria-templom",
+    "keszito": null,
+    "ev": "XVIII. század",
+    "kor": "Barokk",
+    "hely": "Mexikó",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Santa_Maria_Novella_%28Florence%29.jpg/1920px-Santa_Maria_Novella_%28Florence%29.jpg"
+  },
+  {
+    "id": 174,
+    "nev": "Líceum",
+    "keszito": "Fellner Jakab",
+    "ev": "1764",
+    "kor": "Barokk",
+    "hely": "Eger",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Eger%2C_L%C3%ADceum._Fortepan_15650.jpg/640px-Eger%2C_L%C3%ADceum._Fortepan_15650.jpg"
+  },
+  {
+    "id": 175,
+    "nev": "Szent Teréz extázisa",
+    "keszito": "Lorenzo Bernini",
+    "ev": "1647-1652",
+    "kor": "Barokk",
+    "hely": "Róma, S. Maria della Vittoria",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ecstasy_of_Saint_Teresa_September_2015-2a.jpg/640px-Ecstasy_of_Saint_Teresa_September_2015-2a.jpg"
+  },
+  {
+    "id": 176,
+    "nev": "Szent Márton és a koldus",
+    "keszito": "Georg Raphael Donner",
+    "ev": "1735",
+    "kor": "Barokk",
+    "hely": "Pozsony, Szt. Márton plébániatemplom főoltára",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Pozsonyi_Sz_Marton_Dom-Donner_szobor2.jpg"
+  },
+  {
+    "id": 177,
+    "nev": "Amazonok harca",
+    "keszito": "Pieter Pauwel Rubens",
+    "ev": "1618",
+    "kor": "Barokk",
+    "hely": "München, Alte Pinakothek",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Peter_Paul_Rubens_-_Battle_of_the_Amazons_-_WGA20302.jpg/640px-Peter_Paul_Rubens_-_Battle_of_the_Amazons_-_WGA20302.jpg"
+  },
+  {
+    "id": 178,
+    "nev": "A lövészegylet kivonulása (Éjjeli őrjárat)",
+    "keszito": "Rembrandt Harmensz van Rijn",
+    "ev": "1642",
+    "kor": "Barokk",
+    "hely": "Amsterdam, Rijksmuseum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg/640px-La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg"
+  },
+  {
+    "id": 179,
+    "nev": "A három kereszt",
+    "keszito": "Rembrandt Harmensz van Rijn",
+    "ev": "1662",
+    "kor": "Barokk",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Amsterdam_-_Rijksmuseum_-_Late_Rembrandt_Exposition_2015_-_The_Three_Crosses_1653_B.jpg/640px-Amsterdam_-_Rijksmuseum_-_Late_Rembrandt_Exposition_2015_-_The_Three_Crosses_1653_B.jpg"
+  },
+  {
+    "id": 180,
+    "nev": "Önarckép",
+    "keszito": "Rembrandt Harmensz van Rijn",
+    "ev": "1665",
+    "kor": "Barokk",
+    "hely": "Köln, Wallraf Richartz-Museum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/640px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg"
+  },
+  {
+    "id": 181,
+    "nev": "Breda átadása",
+    "keszito": "Diego Velazquez",
+    "ev": "1635-1636",
+    "kor": "Barokk",
+    "hely": "Madrid, Prado",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Velazquez-The_Surrender_of_Breda.jpg/640px-Velazquez-The_Surrender_of_Breda.jpg"
+  },
+  {
+    "id": 182,
+    "nev": "Udvarhölgyek",
+    "keszito": "Diego Velazquez",
+    "ev": "1656-1657",
+    "kor": "Barokk",
+    "hely": "Madrid, Prado",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg/640px-Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg"
+  },
+  {
+    "id": 183,
+    "nev": "Festő és modellje",
+    "keszito": "Vermeer van Delft",
+    "ev": "1665-1670",
+    "kor": "Barokk",
+    "hely": "Bécs, Kunsthistorisches Museum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg/960px-Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg"
+  },
+  {
+    "id": 184,
+    "nev": "Szent Pál megtérése",
+    "keszito": "Michelangelo da Caravaggio",
+    "ev": "1660 körül",
+    "kor": "Barokk",
+    "hely": "Róma, S. Maria del Popolo",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Conversion_of_Saint_Paul_by_Caravaggio_%28Rome%29_-_Detail.jpg/640px-Conversion_of_Saint_Paul_by_Caravaggio_%28Rome%29_-_Detail.jpg"
+  },
+  {
+    "id": 185,
+    "nev": "A születés",
+    "keszito": "Georges de La Tour",
+    "ev": "XVII. század 1/2",
+    "kor": "Barokk",
+    "hely": "Rennes, Musée de Beaux Arts",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Georges_de_La_Tour_-_Newlyborn_infant_-_Mus%C3%A9e_des_Beaux-Arts_de_Rennes.jpg/1280px-Georges_de_La_Tour_-_Newlyborn_infant_-_Mus%C3%A9e_des_Beaux-Arts_de_Rennes.jpg"
+  },
+  {
+    "id": 186,
+    "nev": "Szent Ignác megdicsőülése",
+    "keszito": "Andrea Pozzo",
+    "ev": "1691-1694",
+    "kor": "Barokk",
+    "hely": "Róma, San Ignazio mennyezetfreskója",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/The_Triumph_of_St._Ignatius.jpg/640px-The_Triumph_of_St._Ignatius.jpg"
+  },
+  {
+    "id": 187,
+    "nev": "II. Rákóczi Ferenc",
+    "keszito": "Mányoki Ádám",
+    "ev": "1712",
+    "kor": "Barokk",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/II._R%C3%A1k%C3%B3czi_Ferenc_M%C3%A1nyoki.jpg/960px-II._R%C3%A1k%C3%B3czi_Ferenc_M%C3%A1nyoki.jpg"
+  },
+  {
+    "id": 188,
+    "nev": "Freskó a würzburgi érseki palotából",
+    "keszito": "Giovanni Battista Tiepolo",
+    "ev": "1753",
+    "kor": "Barokk",
+    "hely": "Würzburg",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Investiture_of_Bishop_Harold_as_Duke_of_Franconia_MET_DP123856.jpg/640px-The_Investiture_of_Bishop_Harold_as_Duke_of_Franconia_MET_DP123856.jpg"
+  },
+  {
+    "id": 189,
+    "nev": "A pásztorok imádása",
+    "keszito": "Franz Anton Maulbertsch",
+    "ev": "1758",
+    "kor": "Barokk",
+    "hely": "Sümeg, r. k. plébániatemplom",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Maulbertsch-fresk%C3%B3%2C_S%C3%BCmeg_1.jpg/640px-Maulbertsch-fresk%C3%B3%2C_S%C3%BCmeg_1.jpg"
+  },
+  {
+    "id": 190,
+    "nev": "A négy fakultás",
+    "keszito": "Franz Sigrist",
+    "ev": "1781",
+    "kor": "Barokk",
+    "hely": "Eger, Líceum",
+    "link": "https://m.blog.hu/am/amultnakkutja/image/sigristposzt2.jpg"
+  },
+  {
+    "id": 191,
+    "nev": "Chippendale bútorok (pl. könyvszekrény vagy szék fonadékos háttámlával)",
+    "keszito": null,
+    "ev": "1740-1780",
+    "kor": "Barokk",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Edward_A._Darby%2C_Chippendale_Chair%2C_1935-1942%2C_NGA_16418.jpg/640px-Edward_A._Darby%2C_Chippendale_Chair%2C_1935-1942%2C_NGA_16418.jpg"
+  },
+  {
+    "id": 192,
+    "nev": "British Museum",
+    "keszito": null,
+    "ev": "1823-1844",
+    "kor": "Klasszicizmus",
+    "hely": "London",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/British_Museum_from_NE_2_%28cropped%29.JPG/640px-British_Museum_from_NE_2_%28cropped%29.JPG"
+  },
+  {
+    "id": 193,
+    "nev": "Nagytemplom",
+    "keszito": "Péchy Mihály",
+    "ev": "1805-1821",
+    "kor": "Klasszicizmus",
+    "hely": "Debrecen",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Debrecen_-_Protestant_Great_Church.JPG/640px-Debrecen_-_Protestant_Great_Church.JPG"
+  },
+  {
+    "id": 194,
+    "nev": "Nemzeti Múzeum",
+    "keszito": "Pollack Mihály",
+    "ev": "1837-1847",
+    "kor": "Klasszicizmus",
+    "hely": "Budapest",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Budapest%2C_the_Hungarian_National_Museum%2C_photo_2.jpg/640px-Budapest%2C_the_Hungarian_National_Museum%2C_photo_2.jpg"
+  },
+  {
+    "id": 195,
+    "nev": "Főszékesegyház",
+    "keszito": "Hild József",
+    "ev": "1839-1856",
+    "kor": "Klasszicizmus",
+    "hely": "Esztergom",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Esztergom%2C_the_Basilica%2C_photo_1.jpg/640px-Esztergom%2C_the_Basilica%2C_photo_1.jpg"
+  },
+  {
+    "id": 196,
+    "nev": "Mária Krisztina főhercegnő síremléke",
+    "keszito": "Antonio Canova",
+    "ev": "1789-1805",
+    "kor": "Klasszicizmus",
+    "hely": "Bécs, Augustinerkirche",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Frith%2C_Francis_%281822-1898%29_-_n._2340_-_Tomb_of_Marie_Christine_by_Canova_-_Vienna.jpg/640px-Frith%2C_Francis_%281822-1898%29_-_n._2340_-_Tomb_of_Marie_Christine_by_Canova_-_Vienna.jpg"
+  },
+  {
+    "id": 197,
+    "nev": "A szépmesterségek kezdetei (Pásztorlányka)",
+    "keszito": "Ferenczy István",
+    "ev": "1820-1822",
+    "kor": "Klasszicizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2025/10/347891.jpg"
+  },
+  {
+    "id": 198,
+    "nev": "A Horatiusok esküje",
+    "keszito": "Jacques-Louis David",
+    "ev": "1784",
+    "kor": "Klasszicizmus",
+    "hely": "Párizs, Louvre",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg/640px-Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg"
+  },
+  {
+    "id": 199,
+    "nev": "A nagy odaliszk",
+    "keszito": "Jean Auguste-Dominique Ingres",
+    "ev": "1814",
+    "kor": "Klasszicizmus",
+    "hely": "Párizs, Louvre",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ingre%2C_Grande_Odalisque.jpg/1920px-Ingre%2C_Grande_Odalisque.jpg"
+  },
+  {
+    "id": 200,
+    "nev": "Visegrád",
+    "keszito": "id. Markó Károly",
+    "ev": "1828",
+    "kor": "Klasszicizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2024/01/visegrad1000-768x541.jpg"
+  },
+  {
+    "id": 201,
+    "nev": "Egy Wedgwood kerámia a XIX. sz. elejéről (pl. váza)",
+    "keszito": null,
+    "ev": "1805",
+    "kor": "Klasszicizmus",
+    "hely": "London, Victoria & Albert Museum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Jasperware.jpg/640px-Jasperware.jpg"
+  },
+  {
+    "id": 202,
+    "nev": "Copf stílusú bútorok (pl. kétajtós szekrény vagy felnyitható öltözőasztal)",
+    "keszito": null,
+    "ev": "1790 körül vagy XVIII. század vége",
+    "kor": "Klasszicizmus",
+    "hely": "Budapest, Iparművészeti Múzeum",
+    "link": "https://www.pinterest.com/pin/816981188625909920/"
+  },
+  {
+    "id": 203,
+    "nev": "Parlament",
+    "keszito": null,
+    "ev": "1840-1865",
+    "kor": "Romantika",
+    "hely": "London",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Houses_of_Parliament_in_2022_%28cropped%29.jpg/1920px-Houses_of_Parliament_in_2022_%28cropped%29.jpg"
+  },
+  {
+    "id": 204,
+    "nev": "Kristálypalota - Londoni világkiállítás fotója",
+    "keszito": null,
+    "ev": "1851",
+    "kor": "Romantika",
+    "hely": "London",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bust_of_Joseph_Paxton%2C_Crystal_Palace.jpg/640px-Bust_of_Joseph_Paxton%2C_Crystal_Palace.jpg"
+  },
+  {
+    "id": 205,
+    "nev": "Operaház",
+    "keszito": null,
+    "ev": "1860-1875",
+    "kor": "Romantika",
+    "hely": "Párizs",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/North_facade_of_Op%C3%A9ra_Garnier%2C_17_July_2008.jpg/640px-North_facade_of_Op%C3%A9ra_Garnier%2C_17_July_2008.jpg"
+  },
+  {
+    "id": 206,
+    "nev": "Eiffel-torony",
+    "keszito": "Alexander Eiffel",
+    "ev": "1889",
+    "kor": "Romantika",
+    "hely": "Párizs",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Eiffelturm.JPG/960px-Eiffelturm.JPG"
+  },
+  {
+    "id": 207,
+    "nev": "Vigadó",
+    "keszito": "Feszl Frigyes",
+    "ev": "1859-1865",
+    "kor": "Romantika",
+    "hely": "Budapest",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Pesti_Vigado_P8130129.jpg"
+  },
+  {
+    "id": 208,
+    "nev": "Operaház",
+    "keszito": "Ybl Miklós",
+    "ev": "1875-1884",
+    "kor": "Romantika",
+    "hely": "Budapest",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hungarian_State_Opera_House%2C_Budapest.jpg/640px-Hungarian_State_Opera_House%2C_Budapest.jpg"
+  },
+  {
+    "id": 209,
+    "nev": "Országház",
+    "keszito": "Steindl Imre",
+    "ev": "1885-1894",
+    "kor": "Romantika",
+    "hely": "Budapest",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Budapest_Parliament_4604.JPG/640px-Budapest_Parliament_4604.JPG"
+  },
+  {
+    "id": 210,
+    "nev": "A budavári Nagyboldogasszony plébániatemplom (Mátyás-templom)",
+    "keszito": "Schulek Frigyes - restaurálás",
+    "ev": "XIII-XV. század - 1874-1896",
+    "kor": "Romantika",
+    "hely": "Budapest",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MatthiasChurch_Budapest.jpg/640px-MatthiasChurch_Budapest.jpg"
+  },
+  {
+    "id": 211,
+    "nev": "Marseillaise",
+    "keszito": "Francois Rude",
+    "ev": "1836",
+    "kor": "Romantika",
+    "hely": "Párizs",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Le_D%C3%A9part_des_Volontaires_%28La_Marseillaise%29_par_Rude%2C_Arc_de_Triomphe_Etoile_Paris.jpg/640px-Le_D%C3%A9part_des_Volontaires_%28La_Marseillaise%29_par_Rude%2C_Arc_de_Triomphe_Etoile_Paris.jpg"
+  },
+  {
+    "id": 212,
+    "nev": "Táncoló paraszt",
+    "keszito": "Izsó Miklós",
+    "ev": "1870",
+    "kor": "Romantika",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2025/10/81739.jpg"
+  },
+  {
+    "id": 213,
+    "nev": "1808. május 3.",
+    "keszito": "Francisco Goya",
+    "ev": "1814",
+    "kor": "Romantika",
+    "hely": "Madrid, Prado",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg/1920px-El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg"
+  },
+  {
+    "id": 214,
+    "nev": "Vándor a ködtenger felett",
+    "keszito": "Caspar David Friedrich",
+    "ev": "1818 körül",
+    "kor": "Romantika",
+    "hely": "Hamburg, Kunsthalle",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/640px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+  },
+  {
+    "id": 215,
+    "nev": "A Medúza tutaja",
+    "keszito": "Théodore Géricault",
+    "ev": "1818-1819",
+    "kor": "Romantika",
+    "hely": "Párizs, Louvre",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/6/69/Th%C3%A9odore_G%C3%A9ricault_-_Le_Radeau_de_la_M%C3%A9duse.jpg"
+  },
+  {
+    "id": 216,
+    "nev": "A teremtő",
+    "keszito": "William Blake",
+    "ev": "1826",
+    "kor": "Romantika",
+    "hely": "Manchester, Whiteworth Gallery",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Europe_a_Prophecy_copy_K_plate_01.jpg/960px-Europe_a_Prophecy_copy_K_plate_01.jpg"
+  },
+  {
+    "id": 217,
+    "nev": "A szabadság vezeti a népet",
+    "keszito": "Eugène Delacroix",
+    "ev": "1831",
+    "kor": "Romantika",
+    "hely": "Párizs, Louvre",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg/1920px-La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg"
+  },
+  {
+    "id": 218,
+    "nev": "Gőzhajó a hóviharban",
+    "keszito": "William Turner",
+    "ev": "1842",
+    "kor": "Romantika",
+    "hely": "London, Tate Gallery",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Joseph_Mallord_William_Turner_-_Snow_Storm_-_Steam-Boat_off_a_Harbour%27s_Mouth_-_WGA23178.jpg/1920px-Joseph_Mallord_William_Turner_-_Snow_Storm_-_Steam-Boat_off_a_Harbour%27s_Mouth_-_WGA23178.jpg"
+  },
+  {
+    "id": 219,
+    "nev": "Leánykérőben",
+    "keszito": "Pavel Andrejevics Fedotov",
+    "ev": "1848",
+    "kor": "Realizmus",
+    "hely": "Moszkva, Tretyakovszkaja Galerija",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pavel_Fedotov_-_The_Major_Makes_a_Proposal_%28Inspecting_a_Bride_in_a_Merchant%27s_House%29_-_Google_Art_Project_detail3.jpg/640px-Pavel_Fedotov_-_The_Major_Makes_a_Proposal_%28Inspecting_a_Bride_in_a_Merchant%27s_House%29_-_Google_Art_Project_detail3.jpg"
+  },
+  {
+    "id": 220,
+    "nev": "Ornans-i temetés",
+    "keszito": "Gustave Courbet",
+    "ev": "1849-1850",
+    "kor": "Realizmus",
+    "hely": "Paris, Musée d'Orsay",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project_2.jpg/640px-Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project_2.jpg"
+  },
+  {
+    "id": 221,
+    "nev": "Kalászszedők",
+    "keszito": "Jean-François Millet",
+    "ev": "1857",
+    "kor": "Realizmus",
+    "hely": "Párizs, Louvre",
+    "link": "https://www.szepmuveszeti.hu/app/uploads/2019/06/108857.jpg"
+  },
+  {
+    "id": 222,
+    "nev": "Hajóvontatók a Volgán",
+    "keszito": "Ilja Repin",
+    "ev": "1873",
+    "kor": "Realizmus",
+    "hely": "Szentpétervár, Russzkij Muzej",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ilia_Efimovich_Repin_%281844-1930%29_-_Volga_Boatmen_%281870-1873%29.jpg/640px-Ilia_Efimovich_Repin_%281844-1930%29_-_Volga_Boatmen_%281870-1873%29.jpg"
+  },
+  {
+    "id": 223,
+    "nev": "Nemzetőr",
+    "keszito": "Borsos József",
+    "ev": "1848",
+    "kor": "Realizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Borsos_J%C3%B3zsef_Nemzet%C5%91r.JPG/640px-Borsos_J%C3%B3zsef_Nemzet%C5%91r.JPG"
+  },
+  {
+    "id": 224,
+    "nev": "Hunyadi László siratása",
+    "keszito": "Madarász Viktor",
+    "ev": "1859",
+    "kor": "Realizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Madar%C3%A1sz%2C_Viktor_-_The_Mourning_of_L%C3%A1szl%C3%B3_Hunyadi_-_Google_Art_Project.jpg/640px-Madar%C3%A1sz%2C_Viktor_-_The_Mourning_of_L%C3%A1szl%C3%B3_Hunyadi_-_Google_Art_Project.jpg"
+  },
+  {
+    "id": 225,
+    "nev": "Egri nők",
+    "keszito": "Székely Bertalan",
+    "ev": "1867",
+    "kor": "Realizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2023/03/10-29-Szekely-Egri-nok700.jpg"
+  },
+  {
+    "id": 226,
+    "nev": "Tépéscsinálók",
+    "keszito": "Munkácsy Mihály",
+    "ev": "1871",
+    "kor": "Realizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2019/11/224181.jpg"
+  },
+  {
+    "id": 227,
+    "nev": "Majális",
+    "keszito": "Szinyei Merse Pál",
+    "ev": "1873",
+    "kor": "Realizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://majalis.mng.hu/assets/media/images/01_festmeny/Majalis_2000.jpg?t=66666"
+  },
+  {
+    "id": 228,
+    "nev": "Bittó Istvánné",
+    "keszito": "Barabás Miklós",
+    "ev": "1874",
+    "kor": "Realizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Barabas-bittone.jpg/640px-Barabas-bittone.jpg"
+  },
+  {
+    "id": 229,
+    "nev": "Út a fontenebleau-i erdőben",
+    "keszito": "Paál László",
+    "ev": "1876",
+    "kor": "Realizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://en.mng.hu/app/uploads/2025/10/223312.jpg"
+  },
+  {
+    "id": 230,
+    "nev": "Illusztráció a \"Hídavatás\"-hoz",
+    "keszito": "Zichy Mihály",
+    "ev": "1877 után",
+    "kor": "Realizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2025/10/117505.jpg"
+  },
+  {
+    "id": 231,
+    "nev": "Buda visszafoglalása",
+    "keszito": "Benczúr Gyula",
+    "ev": "1896",
+    "kor": "Realizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Reprise_ch%C3%A2teau_Buda_1686.jpg/1920px-Reprise_ch%C3%A2teau_Buda_1686.jpg"
+  },
+  {
+    "id": 232,
+    "nev": "A zene apoteózisa",
+    "keszito": "Lotz Károly",
+    "ev": "1883-1884",
+    "kor": "Realizmus",
+    "hely": "Budapest, Operaház mennyezetképe",
+    "link": "https://pestbuda.hu/gallery/OperaFB2.jpg"
+  },
+  {
+    "id": 233,
+    "nev": "Reggeli a szabadban",
+    "keszito": "Edouard Manet",
+    "ev": "1863",
+    "kor": "Impresszionizmus",
+    "hely": "Párizs, Louvre",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/640px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg"
+  },
+  {
+    "id": 234,
+    "nev": "Claude Monet csónakműtermében fest (A bárka)",
+    "keszito": "Edouard Manet",
+    "ev": "1874",
+    "kor": "Impresszionizmus",
+    "hely": "München, Neue Pinakothek",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Edouard_Manet.-_Monet_peignant_sur_son_atelier-b%C3%A2teau.jpg/640px-Edouard_Manet.-_Monet_peignant_sur_son_atelier-b%C3%A2teau.jpg"
+  },
+  {
+    "id": 235,
+    "nev": "A felkelő nap impressziója",
+    "keszito": "Claude Monet",
+    "ev": "1872",
+    "kor": "Impresszionizmus",
+    "hely": "Párizs, Louvre",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/1920px-Monet_-_Impression%2C_Sunrise.jpg"
+  },
+  {
+    "id": 236,
+    "nev": "Balettiskola",
+    "keszito": "Edgar Degas",
+    "ev": "1874",
+    "kor": "Impresszionizmus",
+    "hely": "Párizs, Louvre",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Edgar_Degas_The_Dance_Class.jpg/640px-Edgar_Degas_The_Dance_Class.jpg"
+  },
+  {
+    "id": 237,
+    "nev": "A Moulin de la Galette",
+    "keszito": "Auguste Renoir",
+    "ev": "1876",
+    "kor": "Impresszionizmus",
+    "hely": "New York, J. H. Whitney Gyűjtemény",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg/640px-Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg"
+  },
+  {
+    "id": 238,
+    "nev": "Vasárnap délután",
+    "keszito": "Georges Seurat",
+    "ev": "1884-1886",
+    "kor": "Posztimpresszionizmus",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/1920px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg"
+  },
+  {
+    "id": 239,
+    "nev": "Mont-Sainte-Victoire",
+    "keszito": "Paul Cézanne",
+    "ev": "1885-1887",
+    "kor": "Posztimpresszionizmus",
+    "hely": "London, Courtauld Institute",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Paul_C%C3%A9zanne_-_Montagne_Saint-victoire_-_Google_Art_Project.jpg/1920px-Paul_C%C3%A9zanne_-_Montagne_Saint-victoire_-_Google_Art_Project.jpg"
+  },
+  {
+    "id": 240,
+    "nev": "Csendélet korsóval és gyümölcsökkel",
+    "keszito": "Paul Cézanne",
+    "ev": "1887-1895",
+    "kor": "Posztimpresszionizmus",
+    "hely": "Oslo, National galerie",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Cezanne%2C_Nature_morte_au_compotier.jpg"
+  },
+  {
+    "id": 241,
+    "nev": "Önarckép",
+    "keszito": "Vincent van Gogh",
+    "ev": "1890",
+    "kor": "Posztimpresszionizmus",
+    "hely": "Párizs, Jeu de Paume",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/960px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg"
+  },
+  {
+    "id": 242,
+    "nev": "Út ciprusokkal (Országút éjjel)",
+    "keszito": "Vincent van Gogh",
+    "ev": "1890",
+    "kor": "Posztimpresszionizmus",
+    "hely": "Otterlo, Kröller-Müller Gyűjtemény",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/640px-Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+  },
+  {
+    "id": 243,
+    "nev": "Mi újság? (Tahiti nők)",
+    "keszito": "Paul Gauguin",
+    "ev": "1892",
+    "kor": "Posztimpresszionizmus",
+    "hely": "Drezda, Gemäldegalerie Neue Meister",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Paul_Gauguin%2C_Nafea_Faa_Ipoipo%3F_1892%2C_oil_on_canvas%2C_101_x_77_cm.jpg/640px-Paul_Gauguin%2C_Nafea_Faa_Ipoipo%3F_1892%2C_oil_on_canvas%2C_101_x_77_cm.jpg"
+  },
+  {
+    "id": 244,
+    "nev": "Vörös ház",
+    "keszito": "William Morris - Philip Webb",
+    "ev": "1859",
+    "kor": "Eklektika",
+    "hely": "London",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Philip_Webb%27s_Red_House_in_Upton.jpg/640px-Philip_Webb%27s_Red_House_in_Upton.jpg"
+  },
+  {
+    "id": 245,
+    "nev": "Sagrada Familia",
+    "keszito": "Antonio Gaudi",
+    "ev": "1884-től",
+    "kor": "Szecesszió",
+    "hely": "Barcelona",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TEMPLE_EXPIATORI_DE_LA_SAGRADA_FAM%C3%8DLIA_24012021_%281%29_32.jpg/640px-TEMPLE_EXPIATORI_DE_LA_SAGRADA_FAM%C3%8DLIA_24012021_%281%29_32.jpg"
+  },
+  {
+    "id": 246,
+    "nev": "Tassel-ház",
+    "keszito": "Victor Horta",
+    "ev": "1892-1893",
+    "kor": "Szecesszió",
+    "hely": "Brüsszel",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/a/af/Tassel_House_stairway.JPG"
+  },
+  {
+    "id": 247,
+    "nev": "Glasgow-i Művészeti Iskola",
+    "keszito": "Charles Rennie Mackintosh",
+    "ev": "1898 körül",
+    "kor": "Szecesszió",
+    "hely": "Glasgow",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Wfm_glasgow_school_of_art.jpg/640px-Wfm_glasgow_school_of_art.jpg"
+  },
+  {
+    "id": 248,
+    "nev": "A bécsi szecesszió épülete",
+    "keszito": "Joseph-Maria Olbrich",
+    "ev": "1898-1899",
+    "kor": "Szecesszió",
+    "hely": "Bécs",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Secession_Building_Vienna.jpg/640px-Secession_Building_Vienna.jpg"
+  },
+  {
+    "id": 249,
+    "nev": "Postatakarékpénztár",
+    "keszito": "Lechner Ödön",
+    "ev": "1899-1902",
+    "kor": "Szecesszió",
+    "hely": "Budapest",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/View_of_Hungarian_State_Treasury_building_%2803%29.jpg/1920px-View_of_Hungarian_State_Treasury_building_%2803%29.jpg"
+  },
+  {
+    "id": 250,
+    "nev": "Szépművészeti Múzeum",
+    "keszito": "Schikedanz Albert",
+    "ev": "1899-1906",
+    "kor": "Szecesszió",
+    "hely": "Budapest",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_of_fine_arts%2C_Heroes%E2%80%99_square%2C_Budapest.jpg/640px-Museum_of_fine_arts%2C_Heroes%E2%80%99_square%2C_Budapest.jpg"
+  },
+  {
+    "id": 251,
+    "nev": "Madárház, Budapesti Állatkert",
+    "keszito": "Kós Károly - Zrumecky Dezső",
+    "ev": "1908-1909",
+    "kor": "Szecesszió",
+    "hely": "Budapest",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/K%C3%B3s_K%C3%A1roly-f%C3%A9le_Mad%C3%A1rh%C3%A1z4.jpg/960px-K%C3%B3s_K%C3%A1roly-f%C3%A9le_Mad%C3%A1rh%C3%A1z4.jpg"
+  },
+  {
+    "id": 252,
+    "nev": "Rákosmulyadi r. k. templom",
+    "keszito": "Medgyaszay István",
+    "ev": "1910",
+    "kor": "Szecesszió",
+    "hely": "Budapest (Rákoscsaba)",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mula_kostol_01.jpg/1280px-Mula_kostol_01.jpg"
+  },
+  {
+    "id": 253,
+    "nev": "A csók",
+    "keszito": "Auguste Rodin",
+    "ev": "1894",
+    "kor": "Szecesszió",
+    "hely": "Párizs, Rodin Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rodin_-_Le_Baiser_06.jpg/640px-Rodin_-_Le_Baiser_06.jpg"
+  },
+  {
+    "id": 254,
+    "nev": "Mátyás király emlékmű",
+    "keszito": "Fadrusz János",
+    "ev": "1895-1902",
+    "kor": "Szecesszió",
+    "hely": "Kolozsvár",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2004-08-08_Kolozsv%C3%A1r_Mathias_rex%2C_M%C3%A1ty%C3%A1s_kir%C3%A1ly%2C_Matthias_Corvinus.jpg/640px-2004-08-08_Kolozsv%C3%A1r_Mathias_rex%2C_M%C3%A1ty%C3%A1s_kir%C3%A1ly%2C_Matthias_Corvinus.jpg"
+  },
+  {
+    "id": 255,
+    "nev": "Csavargófej",
+    "keszito": "Mednyánszky László",
+    "ev": "1908-1910",
+    "kor": "Szimbolizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://vmek.oszk.hu/04800/04895/html/nagykep.jpg"
+  },
+  {
+    "id": 256,
+    "nev": "A rémfej",
+    "keszito": "Edward Burne-Jones",
+    "ev": "1887",
+    "kor": "Szimbolizmus",
+    "hely": "Stuttgart, Staatsgalerie",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Edward_Burne-Jones_-_Perseus_and_the_Graiae%2C_1892.jpg/960px-Edward_Burne-Jones_-_Perseus_and_the_Graiae%2C_1892.jpg"
+  },
+  {
+    "id": 257,
+    "nev": "Ezek a hölgyek",
+    "keszito": "Henri de Toulouse-Lautrec",
+    "ev": "1895",
+    "kor": "Szimbolizmus",
+    "hely": "Budapest, Szépművészeti Múzeum",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%28Albi%29_Au_Salon_de_la_rue_des_Moulins_-_Henri_de_Toulouse-Lautrec_1894_MTL.inv180_%28small%29.jpg/640px-%28Albi%29_Au_Salon_de_la_rue_des_Moulins_-_Henri_de_Toulouse-Lautrec_1894_MTL.inv180_%28small%29.jpg"
+  },
+  {
+    "id": 258,
+    "nev": "Jane Avril (litográfia)",
+    "keszito": "Henri de Toulouse-Lautrec",
+    "ev": "1893",
+    "kor": "Szimbolizmus",
+    "hely": "Albi, Musée d'Albi",
+    "link": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/333993/757274/main-image"
+  },
+  {
+    "id": 259,
+    "nev": "A csók",
+    "keszito": "Gustav Klimt",
+    "ev": "1907-1908",
+    "kor": "Szecesszió",
+    "hely": "Bécs, Österreichische Galerie",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg/640px-The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg"
+  },
+  {
+    "id": 260,
+    "nev": "Sikoly",
+    "keszito": "Edvard Munch",
+    "ev": "1893",
+    "kor": "Szimbolizmus",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Scream.jpg/960px-The_Scream.jpg"
+  },
+  {
+    "id": 261,
+    "nev": "Leányfej (Jeanne Hébuterne arcképe szemből)",
+    "keszito": "Amadeo Modigliani",
+    "ev": "1918",
+    "kor": "XX. század",
+    "hely": "Bern, magántulajdon",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jeanne_H%C3%A9buterne_%281898%E2%80%931920%29_MET_DT2180.jpg/250px-Jeanne_H%C3%A9buterne_%281898%E2%80%931920%29_MET_DT2180.jpg"
+  },
+  {
+    "id": 262,
+    "nev": "Kalitkás nő",
+    "keszito": "Rippl-Rónai József",
+    "ev": "1892",
+    "kor": "Szecesszió",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2025/10/227050.jpg"
+  },
+  {
+    "id": 263,
+    "nev": "Madárdal",
+    "keszito": "Ferenczy Károly",
+    "ev": "1893",
+    "kor": "Szecesszió",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ferenczy%2C_K%C3%A1roly_-_Birdsong_-_Google_Art_Project.jpg/640px-Ferenczy%2C_K%C3%A1roly_-_Birdsong_-_Google_Art_Project.jpg"
+  },
+  {
+    "id": 264,
+    "nev": "A varázsló kertje",
+    "keszito": "Gulácsy Lajos",
+    "ev": "1904",
+    "kor": "Szimbolizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://www.mek.oszk.hu/04900/04940/html/onarc3.jpg"
+  },
+  {
+    "id": 265,
+    "nev": "Zarándoklás a cédrusokhoz Libanonban",
+    "keszito": "Csontváry Kosztka Tivadar",
+    "ev": "1907",
+    "kor": "Szimbolizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2025/10/81070.jpg"
+  },
+  {
+    "id": 266,
+    "nev": "Taormina",
+    "keszito": "Csontváry Kosztka Tivadar",
+    "ev": null,
+    "kor": "Szimbolizmus",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2025/10/81074.jpg"
+  },
+  {
+    "id": 267,
+    "nev": "A keresztapa reggelije",
+    "keszito": "Csók István",
+    "ev": "1932",
+    "kor": "XX. század",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://vmek.oszk.hu/03200/03281/html/nagykep.jpg"
+  },
+  {
+    "id": 268,
+    "nev": "Az Ernst Múzeum üvegablaka",
+    "keszito": "Rippl-Rónai József - Róth Miksa",
+    "ev": "1912",
+    "kor": "Szecesszió",
+    "hely": "Budapest",
+    "link": "https://s3.eu-central-1.amazonaws.com/kozterkep/photos/u4218-a47898-64d24326707ed-3db4d3cc794c86bc0c7d2fe1_1.jpg"
+  },
+  {
+    "id": 269,
+    "nev": "Thonet bútorok (pl. Thonet hajlított hintaszéktípusa vagy Thonet kerek ülésű standard széke)",
+    "keszito": null,
+    "ev": "1851-től (1860 vagy 1859 évi típus)",
+    "kor": "Szecesszió",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/7/71/Michael_Thonet_14.jpg"
+  },
+  {
+    "id": 270,
+    "nev": "Henry van de Velde bútorai (pl. szecessziós szék és asztal)",
+    "keszito": "Henry van de Velde",
+    "ev": "1895",
+    "kor": "Szecesszió",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Henry_van_de_velde%2C_bureau_de_dame%2C_belgio_1897_ca.%2C_02.JPG/640px-Henry_van_de_velde%2C_bureau_de_dame%2C_belgio_1897_ca.%2C_02.JPG"
+  },
+  {
+    "id": 271,
+    "nev": "A pécsi Zsolnay gyár egy tárgya a századfordulóról",
+    "keszito": null,
+    "ev": "Századforduló",
+    "kor": "Szecesszió",
+    "hely": null,
+    "link": "https://www.zsolnaywebshop.com/uploads/productimages/0/9ccc619913f01d9ea994.png"
+  },
+  {
+    "id": 272,
+    "nev": "Carson, Pirie és Scott áruház",
+    "keszito": "Louis Sullivan",
+    "ev": "1899-1904",
+    "kor": "XX. század",
+    "hely": "Chicago",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Schiller_Theater_building_1900.jpg/960px-Schiller_Theater_building_1900.jpg"
+  },
+  {
+    "id": 273,
+    "nev": "Hoechst festékgyár",
+    "keszito": "Peter Behrens",
+    "ev": "1920-1925",
+    "kor": "XX. század",
+    "hely": "Berlin",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Industriepark_H%C3%B6chst%2C_Leunabr%C3%BCcke.jpg/1920px-Industriepark_H%C3%B6chst%2C_Leunabr%C3%BCcke.jpg"
+  },
+  {
+    "id": 274,
+    "nev": "A Bauhaus központi épülete",
+    "keszito": "Walter Gropius",
+    "ev": "1925-1926",
+    "kor": "XX. század",
+    "hely": "Dessau",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bauhaus_dessau.jpg/640px-Bauhaus_dessau.jpg"
+  },
+  {
+    "id": 275,
+    "nev": "Schroeder-ház",
+    "keszito": "Gerrit Thomas Rietveld",
+    "ev": "1924",
+    "kor": "XX. század",
+    "hely": "Utrecht",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rietveld_Schr%C3%B6derhuis_HayKranen-20.JPG/1920px-Rietveld_Schr%C3%B6derhuis_HayKranen-20.JPG"
+  },
+  {
+    "id": 276,
+    "nev": "Vízesésház",
+    "keszito": "Frank Lloyd Wright",
+    "ev": "1936",
+    "kor": "XX. század",
+    "hely": "Bear Run (Pennsylvania)",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Fallingwater_2007.jpg/1920px-Fallingwater_2007.jpg"
+  },
+  {
+    "id": 277,
+    "nev": "Margitszigeti Sportuszoda",
+    "keszito": "Hajós Alfréd",
+    "ev": "1930",
+    "kor": "XX. század",
+    "hely": "Budapest",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Budapest_Hajos_Alfred_Sportuszoda_IMG_0458-1000.jpg/640px-Budapest_Hajos_Alfred_Sportuszoda_IMG_0458-1000.jpg"
+  },
+  {
+    "id": 278,
+    "nev": "Társasház",
+    "keszito": "Molnár Farkas",
+    "ev": "1936",
+    "kor": "XX. század",
+    "hely": "Budapest",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/012c_Bp.II.Pasar%C3%A9ti_%C3%BAt_7.jpg/1920px-012c_Bp.II.Pasar%C3%A9ti_%C3%BAt_7.jpg"
+  },
+  {
+    "id": 279,
+    "nev": "Cím nélkül, Mobil",
+    "keszito": "Alexander Calder",
+    "ev": "1945",
+    "kor": "XX. század",
+    "hely": "Calder Foundation, New York",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Alexander_Calder._Mobile.jpg/640px-Alexander_Calder._Mobile.jpg"
+  },
+  {
+    "id": 280,
+    "nev": "A vörös fák",
+    "keszito": "Maurice de Vlaminck",
+    "ev": "1906",
+    "kor": "XX. század - Fauvizmus",
+    "hely": "Párizs, Musée National d'Art Moderne",
+    "link": "https://arthive.com/res/media/img/oy800/work/c4c/487486.webp"
+  },
+  {
+    "id": 281,
+    "nev": "A vörös desszert",
+    "keszito": "Henri Matisse",
+    "ev": "1908",
+    "kor": "XX. század - Fauvizmus",
+    "hely": "Szentpétervár, Ermitázs",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Matisse-The-Dessert-Harmony-in-Red-Henri-1908-fast.jpg"
+  },
+  {
+    "id": 282,
+    "nev": "Az avignoni kisasszonyok",
+    "keszito": "Pablo Picasso",
+    "ev": "1907",
+    "kor": "XX. század - Kubizmus",
+    "hely": "New York, Museum of Modern Art",
+    "link": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Les_Demoiselles_d%27Avignon.jpg/1280px-Les_Demoiselles_d%27Avignon.jpg"
+  },
+  {
+    "id": 283,
+    "nev": "Guernica",
+    "keszito": "Pablo Picasso",
+    "ev": "1937",
+    "kor": "XX. század",
+    "hely": "Barcelona",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mural_del_%22Guernica%22_de_Picasso.jpg/1920px-Mural_del_%22Guernica%22_de_Picasso.jpg"
+  },
+  {
+    "id": 284,
+    "nev": "A portugál nő",
+    "keszito": "Georges Braque",
+    "ev": "1911",
+    "kor": "XX. század - Kubizmus",
+    "hely": "Basel, Kunstmuseum",
+    "link": "https://www.georgesbraque.org/assets/img/paintings/the-portuguese.jpg"
+  },
+  {
+    "id": 285,
+    "nev": "Az izmok dinamizmusa",
+    "keszito": "Umberto Boccioni",
+    "ev": "1913",
+    "kor": "XX. század - Futurizmus",
+    "hely": "New York, Museum of Modern Art",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Unique_Forms_of_Continuity_in_Space_MET_DT6411.jpg/640px-Unique_Forms_of_Continuity_in_Space_MET_DT6411.jpg"
+  },
+  {
+    "id": 286,
+    "nev": "Lépcsőn lemenő akt",
+    "keszito": "Marcel Duchamp",
+    "ev": "1912",
+    "kor": "XX. század",
+    "hely": "Philadelphia, Museum of Modern Art",
+    "link": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Duchamp_-_Nude_Descending_a_Staircase.jpg/960px-Duchamp_-_Nude_Descending_a_Staircase.jpg"
+  },
+  {
+    "id": 287,
+    "nev": "Forrás",
+    "keszito": "Marcel Duchamp",
+    "ev": "1917",
+    "kor": "XX. század - Dadaizmus",
+    "hely": "Elveszett",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Duchamp_Fountaine.jpg/640px-Duchamp_Fountaine.jpg"
+  },
+  {
+    "id": 288,
+    "nev": "A kék ló",
+    "keszito": "Franz Marc",
+    "ev": "1911",
+    "kor": "XX. század - Expresszionizmus",
+    "hely": "München, Lenbachhaus",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Marc_-_Zwei_blaue_Pferde_vor_rotem_Felsen.jpg/640px-Marc_-_Zwei_blaue_Pferde_vor_rotem_Felsen.jpg"
+  },
+  {
+    "id": 289,
+    "nev": "Alvó Múzsa",
+    "keszito": "Constantin Brancusi",
+    "ev": "1916",
+    "kor": "XX. század",
+    "hely": "Párizs, Musée d'Art Moderne",
+    "link": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/488458/1012519/restricted"
+  },
+  {
+    "id": 290,
+    "nev": "Sárga, piros, kék",
+    "keszito": "Vaszilij Kandinszkij",
+    "ev": "1925",
+    "kor": "XX. század - Absztrakt",
+    "hely": "Párizs, Nina Kandinszkij Gyűjtemény",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gelb-Rot-Blau%2C_by_Wassily_Kandinsky%2C_Centre_Pompidou.jpg/1920px-Gelb-Rot-Blau%2C_by_Wassily_Kandinsky%2C_Centre_Pompidou.jpg"
+  },
+  {
+    "id": 291,
+    "nev": "Őszi hely",
+    "keszito": "Paul Klee",
+    "ev": "1921",
+    "kor": "XX. század",
+    "hely": "Magántulajdon",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burg_und_Sonne_-_Klee.jpg/640px-Burg_und_Sonne_-_Klee.jpg"
+  },
+  {
+    "id": 292,
+    "nev": "Vörös négyzet",
+    "keszito": "Kazimir Malevics",
+    "ev": "1914",
+    "kor": "XX. század - Szuprematizmus",
+    "hely": "Szentpétervár, Russzkij Muzej",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Suprematist_Composition_-_Kazimir_Malevich.jpg/640px-Suprematist_Composition_-_Kazimir_Malevich.jpg"
+  },
+  {
+    "id": 293,
+    "nev": "Kompozíció: Szürke struktúra színes síkokkal",
+    "keszito": "Piet Mondrian",
+    "ev": "1918",
+    "kor": "XX. század - Neoplaszticizmus",
+    "hely": "Zürich, Max Bill Gyűjtemény",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/5/50/Mondrian%2C_Composition_with_color_planes_and_gray_lines%2C_1918.jpg"
+  },
+  {
+    "id": 294,
+    "nev": "Lautréaumont mondásának illusztrációja, a Minotaure folyóiratból",
+    "keszito": "Man Ray",
+    "ev": "1933",
+    "kor": "XX. század - Szürrealizmus",
+    "hely": null,
+    "link": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/371600/1484187/restricted"
+  },
+  {
+    "id": 295,
+    "nev": "Az én kis falum",
+    "keszito": "Marc Chagall",
+    "ev": "1911",
+    "kor": "XX. század",
+    "hely": "New York, Museum of Modern Art",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marc_Chagall%2C_I_and_the_Village_%2850394064557%29.jpg/640px-Marc_Chagall%2C_I_and_the_Village_%2850394064557%29.jpg"
+  },
+  {
+    "id": 296,
+    "nev": "Bohócfarsang",
+    "keszito": "Joan Miró",
+    "ev": "1924-1925",
+    "kor": "XX. század - Szürrealizmus",
+    "hely": "New York, Albright-Knox Gallery",
+    "link": "https://upload.wikimedia.org/wikipedia/en/2/2d/The_Harlequin%27s_Carnival.jpg"
+  },
+  {
+    "id": 297,
+    "nev": "A szóhasználat I. Ez nem pipa",
+    "keszito": "René Magritte",
+    "ev": "1928-1929",
+    "kor": "XX. század - Szürrealizmus",
+    "hely": "New York, magántulajdon",
+    "link": "https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg"
+  },
+  {
+    "id": 298,
+    "nev": "Prémes Csésze",
+    "keszito": "Meret Oppenheim",
+    "ev": "1936",
+    "kor": "XX. század - Szürrealizmus",
+    "hely": "New York, Museum of Modern Art",
+    "link": "https://upload.wikimedia.org/wikipedia/en/5/5d/Meret_Oppenheim._Object._Paris%2C_1936_-MoMA.png"
+  },
+  {
+    "id": 299,
+    "nev": "Polgárháború előérzete",
+    "keszito": "Salvador Dali",
+    "ev": "1936",
+    "kor": "XX. század - Szürrealizmus",
+    "hely": "Philadelphia Museum of Art",
+    "link": "https://upload.wikimedia.org/wikipedia/en/8/89/SalvadorDali-SoftConstructionWithBeans.jpg"
+  },
+  {
+    "id": 300,
+    "nev": "Háttal álló női akt",
+    "keszito": "Nemes Lampérth József",
+    "ev": "1916",
+    "kor": "XX. század",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2025/12/431977-500x680.jpg"
+  },
+  {
+    "id": 301,
+    "nev": "Képarchitektúra",
+    "keszito": "Kassák Lajos",
+    "ev": "1922",
+    "kor": "XX. század - Aktivizmus",
+    "hely": "Pécs, Janus Pannonius Múzeum",
+    "link": ""
+  },
+  {
+    "id": 302,
+    "nev": "Fényrekvizítum",
+    "keszito": "Moholy-Nagy László",
+    "ev": "1922-1930",
+    "kor": "XX. század",
+    "hely": "Eindhoven, Stedelijk van Abbe Museum",
+    "link": "http://cms.sulinet.hu/get/d/40d7f1be-ab98-433b-2c7d-7eff8cb3d8d8/1/7/b/Large/12_15_06_nagy.jpg"
+  },
+  {
+    "id": 303,
+    "nev": "Zebegényi temetés",
+    "keszito": "Szőnyi István",
+    "ev": "1928",
+    "kor": "XX. század",
+    "hely": "Zebegény, Szőnyi Múzeum",
+    "link": "https://mng.hu/app/uploads/2025/10/63924.jpg"
+  },
+  {
+    "id": 304,
+    "nev": "Tél",
+    "keszito": "Bernáth Aurél",
+    "ev": "1929",
+    "kor": "XX. század",
+    "hely": "Magántulajdon",
+    "link": "https://mek.oszk.hu/03300/03377/html/nagykep.jpg"
+  },
+  {
+    "id": 305,
+    "nev": "Dózsa-sorozat",
+    "keszito": "Derkovits Gyula",
+    "ev": "1928",
+    "kor": "XX. század",
+    "hely": "Magántulajdon",
+    "link": "https://mng.hu/app/uploads/2025/10/159309.jpg"
+  },
+  {
+    "id": 306,
+    "nev": "Anya",
+    "keszito": "Medgyessy Ferenc",
+    "ev": "1940",
+    "kor": "XX. század",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2025/10/125580-500x733.jpg"
+  },
+  {
+    "id": 307,
+    "nev": "Ezüst gnóm",
+    "keszito": "Vajda Lajos",
+    "ev": "1940",
+    "kor": "XX. század",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2025/10/64131.jpg"
+  },
+  {
+    "id": 308,
+    "nev": "Napfelkelte",
+    "keszito": "Egry József",
+    "ev": "1940",
+    "kor": "XX. század",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2025/10/340500.jpg"
+  },
+  {
+    "id": 309,
+    "nev": "Csőszék",
+    "keszito": "Breuer Marcell",
+    "ev": "1926",
+    "kor": "XX. század - Bauhaus",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Breuer_chair_2008.jpg"
+  },
+  {
+    "id": 310,
+    "nev": "Ronchamp-i kápolna",
+    "keszito": "Le Corbusier",
+    "ev": "1955",
+    "kor": "XX. század",
+    "hely": "Ronchamp",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Chapelle_Notre-Dame-du_Haut_05.jpg/640px-Chapelle_Notre-Dame-du_Haut_05.jpg"
+  },
+  {
+    "id": 311,
+    "nev": "Községháza",
+    "keszito": "Alvar Aalto",
+    "ev": "1949-1953",
+    "kor": "XX. század",
+    "hely": "Säynätsalo",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SaynatsaloTownHall4.jpg/960px-SaynatsaloTownHall4.jpg"
+  },
+  {
+    "id": 312,
+    "nev": "Sportcsarnok",
+    "keszito": "Pier Luigi Nervi",
+    "ev": "1956-1957",
+    "kor": "XX. század",
+    "hely": "Róma",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Le_Palazzetto_dello_Sport_en_vue_a%C3%A9rienne.png/640px-Le_Palazzetto_dello_Sport_en_vue_a%C3%A9rienne.png"
+  },
+  {
+    "id": 313,
+    "nev": "Guggenheim Múzeum",
+    "keszito": "Frank Lloyd Wright",
+    "ev": "1946-1958",
+    "kor": "XX. század",
+    "hely": "New York",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Guggenheim_Museum_%287%29.jpg/640px-The_Guggenheim_Museum_%287%29.jpg"
+  },
+  {
+    "id": 314,
+    "nev": "Olimpiai csarnokok",
+    "keszito": "Tange Kenzo",
+    "ev": "1964",
+    "kor": "XX. század",
+    "hely": "Tokió",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/TANGE-Yoyoji-5820.jpg/640px-TANGE-Yoyoji-5820.jpg"
+  },
+  {
+    "id": 315,
+    "nev": "Pompidou központ",
+    "keszito": "Renzo Piano - Richard Rogers",
+    "ev": "1971-1977",
+    "kor": "XX. század",
+    "hely": "Párizs",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Centre_Georges-Pompidou_01.jpg/640px-Centre_Georges-Pompidou_01.jpg"
+  },
+  {
+    "id": 316,
+    "nev": "Bécsi (Löwengassei) lakóház",
+    "keszito": "Friedrich Hundertwasser",
+    "ev": "1980-1982",
+    "kor": "XX. század",
+    "hely": "Bécs",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wien%2C_Hundertwasserhaus_--_2018_--_3168.jpg/640px-Wien%2C_Hundertwasserhaus_--_2018_--_3168.jpg"
+  },
+  {
+    "id": 317,
+    "nev": "A Művelődés Háza",
+    "keszito": "Makovecz Imre",
+    "ev": "1976-1982",
+    "kor": "XX. század",
+    "hely": "Sárospatak",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/S%C3%A1rospatak%2C_1988._A_Makovecz_h%C3%A1z_udvari_homlokzata._Fortepan_26949.jpg/640px-S%C3%A1rospatak%2C_1988._A_Makovecz_h%C3%A1z_udvari_homlokzata._Fortepan_26949.jpg"
+  },
+  {
+    "id": 318,
+    "nev": "Ló és lovas",
+    "keszito": "Marino Marini",
+    "ev": "1949-1950",
+    "kor": "XX. század",
+    "hely": "Zürich, Krayenbühl Gyűjtemény",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Denhaag_the_hague_rider_marino_marini.jpg/640px-Denhaag_the_hague_rider_marino_marini.jpg"
+  },
+  {
+    "id": 319,
+    "nev": "Az erdő",
+    "keszito": "Alberto Giacometti",
+    "ev": "1950",
+    "kor": "XX. század",
+    "hely": "Duisburg, Wilhelm Lehmbruck Gyűjtemény",
+    "link": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/490186/1004094/restricted"
+  },
+  {
+    "id": 320,
+    "nev": "Kétrészes fekvő alak",
+    "keszito": "Henry Moore",
+    "ev": "1959",
+    "kor": "XX. század",
+    "hely": "Művész tulajdona",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Reclining_Figure_Arch_Leg_San_Diego_Museum_of_Art_May_S._Marcy_Sculpture_Garden.jpg/640px-Reclining_Figure_Arch_Leg_San_Diego_Museum_of_Art_May_S._Marcy_Sculpture_Garden.jpg"
+  },
+  {
+    "id": 321,
+    "nev": "Kerekeim",
+    "keszito": "Jean Tinguely",
+    "ev": "1960-1961",
+    "kor": "XX. század",
+    "hely": "Budapest, Ludwig Múzeum - Kortárs Művészeti Múzeum",
+    "link": "https://www.ludwigmuseum.hu/system/files/styles/gallery_image_lg/private/mplus/multimedia/2022/06/Tinguely%20%283%29.jpg?itok=_suBHvXy"
+  },
+  {
+    "id": 322,
+    "nev": "Egy autó összenyomása",
+    "keszito": "Baldaccini César",
+    "ev": "1962",
+    "kor": "XX. század",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/C%C3%A9sar_-_La_compression.jpg/480px-C%C3%A9sar_-_La_compression.jpg"
+  },
+  {
+    "id": 323,
+    "nev": "Martinász",
+    "keszito": "Somogyi József",
+    "ev": "1953",
+    "kor": "XX. század",
+    "hely": "Dunaújváros",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Martin%C3%A1sz_%28Somogyi_J%C3%B3zsef%2C_1960%29%2C_2017_Duna%C3%BAjv%C3%A1ros.jpg/640px-Martin%C3%A1sz_%28Somogyi_J%C3%B3zsef%2C_1960%29%2C_2017_Duna%C3%BAjv%C3%A1ros.jpg"
+  },
+  {
+    "id": 324,
+    "nev": "Madár tojással",
+    "keszito": "Borsos Miklós",
+    "ev": "1968",
+    "kor": "XX. század",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Borsos_Miklos_Madar_tojasal.jpg/480px-Borsos_Miklos_Madar_tojasal.jpg"
+  },
+  {
+    "id": 325,
+    "nev": "Részlet a nagy Gilles-ből",
+    "keszito": "Jovánovics György",
+    "ev": "1967-1968",
+    "kor": "XX. század",
+    "hely": "Magántulajdon",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jovanovics_Gyorgy_Nagy_Gilles.jpg/480px-Jovanovics_Gyorgy_Nagy_Gilles.jpg"
+  },
+  {
+    "id": 326,
+    "nev": "Az utca",
+    "keszito": "Schaár Erzsébet",
+    "ev": "1974",
+    "kor": "XX. század",
+    "hely": "Székesfehérvári kiállítás",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/P%C3%A9cs_Scha%C3%A1r_%C3%96narck%C3%A9p_r%C3%A9szlet.JPG/1920px-P%C3%A9cs_Scha%C3%A1r_%C3%96narck%C3%A9p_r%C3%A9szlet.JPG"
+  },
+  {
+    "id": 327,
+    "nev": "No 14.",
+    "keszito": "Jackson Pollock",
+    "ev": "1948",
+    "kor": "XX. század - Absztrakt expresszionizmus",
+    "hely": "Westport, Connecticut, magántulajdon",
+    "link": "https://www.jackson-pollock.org/assets/img/paintings/number-14-gray.jpg"
+  },
+  {
+    "id": 328,
+    "nev": "Metafizikus",
+    "keszito": "Jean Dubuffet",
+    "ev": "1950",
+    "kor": "XX. század - Art Brut",
+    "hely": "Winnetka-Illinois, magántulajdon",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Jean_Dubuffet_Metafizikus.jpg/480px-Jean_Dubuffet_Metafizikus.jpg"
+  },
+  {
+    "id": 329,
+    "nev": "Tanulmány Velázquez után: X. Ince pápa",
+    "keszito": "Francis Bacon",
+    "ev": "1953",
+    "kor": "XX. század",
+    "hely": "New York, magántulajdon",
+    "link": "https://upload.wikimedia.org/wikipedia/en/5/56/Study_after_Velazquez%27s_Portrait_of_Pope_Innocent_X.jpg"
+  },
+  {
+    "id": 330,
+    "nev": "Tzing",
+    "keszito": "Roy Lichtenstein",
+    "ev": "1962",
+    "kor": "XX. század - Pop art",
+    "hely": "Darmstadt, Karl Ströher gyűjtemény",
+    "link": "https://cdn.panopticoncr.com/roylic001/catalogue_images/main_lg/pgwlyieu/RL_0101_WEB.jpg"
+  },
+  {
+    "id": 331,
+    "nev": "Elvis",
+    "keszito": "Andy Warhol",
+    "ev": "1964",
+    "kor": "XX. század - Pop art",
+    "hely": "Toronto, Art Gallery of Ontario",
+    "link": "https://upload.wikimedia.org/wikipedia/en/9/98/Triple-Elvis-by-Andy-Warhol.jpg"
+  },
+  {
+    "id": 332,
+    "nev": "Turkey",
+    "keszito": "Robert Rauschenberg",
+    "ev": "1965",
+    "kor": "XX. század",
+    "hely": "Darmstadt, Karl Ströher gyűjtemény",
+    "link": "https://media.mutualart.com/Images/2013_10/16/13/132757522/bb272eec-329d-4a1d-884e-335791211767.Jpeg"
+  },
+  {
+    "id": 333,
+    "nev": "Egy op-art mű",
+    "keszito": "Victor Vasarely",
+    "ev": null,
+    "kor": "XX. század - Op art",
+    "hely": null,
+    "link": "https://labeautaniste.fr/wp-content/uploads/2019/11/vasarely-vega-200.jpg"
+  },
+  {
+    "id": 334,
+    "nev": "Szent Antal megkísértése",
+    "keszito": "Kondor Béla",
+    "ev": "1966",
+    "kor": "XX. század",
+    "hely": null,
+    "link": "https://uploads6.wikiart.org/00394/images/kondor-bela/kondor-b-la-szent-antal-megkis-rt-se.JPG!Large.JPG"
+  },
+  {
+    "id": 335,
+    "nev": "Cipők a Duna-parton",
+    "keszito": "Pauer Gyula",
+    "ev": "2005",
+    "kor": "XX-XXI. század",
+    "hely": "Budapest, Kossuth tér",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Shoes_Danube_Promenade_IMGP1297.jpg/960px-Shoes_Danube_Promenade_IMGP1297.jpg"
+  },
+  {
+    "id": 336,
+    "nev": "Lovas fotók",
+    "keszito": "Edward Muybridge",
+    "ev": "1888 körül",
+    "kor": "Fotó",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Muybridge_horse_walking_animated.gif/640px-Muybridge_horse_walking_animated.gif"
+  },
+  {
+    "id": 337,
+    "nev": "Önarckép",
+    "keszito": "Moholy-Nagy László",
+    "ev": "1922",
+    "kor": "Fotó",
+    "hely": null,
+    "link": "https://www.meisterdrucke.us/kunstwerke/1000px/Laszlo_Moholy_Nagy_-_Self-Portrait_1926_-_(MeisterDrucke-748760).jpg"
+  },
+  {
+    "id": 338,
+    "nev": "Telefonáló nő",
+    "keszito": "Alexander Rodcsenko",
+    "ev": "1923",
+    "kor": "Fotó",
+    "hely": null,
+    "link": "https://smarthistory.org/wp-content/uploads/2021/08/rodchenko-870x1180.jpg"
+  },
+  {
+    "id": 339,
+    "nev": "Casati grófnő",
+    "keszito": "Man Ray",
+    "ev": "1928",
+    "kor": "Fotó",
+    "hely": null,
+    "link": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/903458/2338966/restricted"
+  },
+  {
+    "id": 340,
+    "nev": "Gyerekek",
+    "keszito": "Munkácsi Márton",
+    "ev": "1928",
+    "kor": "Fotó",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/en/a/a3/Three_Boys_at_Lake_Tanganyika_Martin_Munk%C3%A1csi.jpg"
+  },
+  {
+    "id": 341,
+    "nev": "Káposztalevél",
+    "keszito": "Edward Weston",
+    "ev": "1931",
+    "kor": "Fotó",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cabbage_leaf%2C_by_Edward_Weston.jpg/640px-Cabbage_leaf%2C_by_Edward_Weston.jpg"
+  },
+  {
+    "id": 342,
+    "nev": "Torzulás (sorozat)",
+    "keszito": "André Kertész",
+    "ev": "1933",
+    "kor": "Fotó",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andr%C3%A9_Kert%C3%A9sz_Distortion_40.jpg/480px-Andr%C3%A9_Kert%C3%A9sz_Distortion_40.jpg"
+  },
+  {
+    "id": 343,
+    "nev": "Vasárnap a Marne partján",
+    "keszito": "Henri Cartier-Bresson",
+    "ev": "1938",
+    "kor": "Fotó",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/en/7/76/Juvisy%2C_France.jpg"
+  },
+  {
+    "id": 344,
+    "nev": "Kollaboránsnő Chartres-ból",
+    "keszito": "Robert Capa",
+    "ev": "1944",
+    "kor": "Fotó",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/en/f/f1/Robert_Capa_-_The_Shaved_Woman_of_Chartres%2C_1944.jpg"
+  },
+  {
+    "id": 345,
+    "nev": "Vasárnap Brooklynban sétáló fiatal pár",
+    "keszito": "Diane Arbus",
+    "ev": "1966",
+    "kor": "Fotó",
+    "hely": null,
+    "link": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/285279/2154760/restricted"
+  },
+  {
+    "id": 346,
+    "nev": "Apám",
+    "keszito": "Richard Avedon",
+    "ev": "1969 után",
+    "kor": "Fotó",
+    "hely": null,
+    "link": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/jacobavedon.jpg"
+  },
+  {
+    "id": 347,
+    "nev": "Szénhordás",
+    "keszito": "Escher Károly",
+    "ev": null,
+    "kor": "Fotó",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Escher_Karoly_Szenhordas.jpg/480px-Escher_Karoly_Szenhordas.jpg"
+  },
+  {
+    "id": 348,
+    "nev": "Osztályátlag I-II.",
+    "keszito": "Türk Péter",
+    "ev": "1979",
+    "kor": "Fotó",
+    "hely": "Budapest, Magyar Nemzeti Galéria",
+    "link": "https://mng.hu/app/uploads/2018/12/78749.jpg,"
+  },
+  {
+    "id": 349,
+    "nev": "Oostende, Belgium, August 7, 1992, from Beach Portraits",
+    "keszito": "Rineke Dijkstra",
+    "ev": "1992",
+    "kor": "Fotó",
+    "hely": null,
+    "link": "https://api.nga.gov/iiif/f09d3086-99ec-4adf-9158-a1cebf2b6a8a/full/!800,800/0/default.jpg"
+  },
+  {
+    "id": 350,
+    "nev": "Hat fej (Six Heads videó)",
+    "keszito": "Bill Viola",
+    "ev": "2000",
+    "kor": "Videó művészet",
+    "hely": null,
+    "link": "https://www.artgallery.nsw.gov.au/media/thumbnails/collection_images/2/251.2011%23%23S.jpg.674x1200_q85.jpg"
+  },
+  {
+    "id": 351,
+    "nev": "Expedíció VIII.",
+    "keszito": "Szabó Dezső",
+    "ev": "2001",
+    "kor": "Kortárs fotó",
+    "hely": null,
+    "link": "https://www.ludwigmuseum.hu/system/files/styles/gallery_image_lg/private/mplus/multimedia/2017/10/Szabo_Dezso_Exped08.jpg?itok=Sv3KgcB3"
+  },
+  {
+    "id": 352,
+    "nev": "A tű asszony (Needle Woman, videó)",
+    "keszito": "Kimsooja",
+    "ev": "1997/2005",
+    "kor": "Videó művészet",
+    "hely": null,
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kimsooja%2C_A_Needle_Woman_Tokyo%2C_video_still%2C_1999.jpg/640px-Kimsooja%2C_A_Needle_Woman_Tokyo%2C_video_still%2C_1999.jpg"
+  }
+]
