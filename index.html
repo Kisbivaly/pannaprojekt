@@ -15,6 +15,9 @@
             font-family: 'Arial', sans-serif;
             background-color: #f5f5f5;
             color: #333;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
         }
 
         header {
@@ -34,6 +37,8 @@
             max-width: 1200px;
             margin: 2rem auto;
             padding: 0 1rem;
+            flex: 1;
+            width: 100%;
         }
 
         .mode-switcher {
@@ -277,6 +282,170 @@
         .gallery-container.hidden {
             display: none;
         }
+
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            padding: 1.5rem;
+            text-align: center;
+            margin-top: 4rem;
+            box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
+        }
+
+        footer a {
+            color: #3498db;
+            text-decoration: none;
+            margin: 0 1rem;
+            transition: color 0.3s;
+        }
+
+        footer a:hover {
+            color: #2980b9;
+            text-decoration: underline;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+            margin-bottom: 0.5rem;
+        }
+
+        .bug-report-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: #e74c3c;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+            transition: all 0.3s;
+            z-index: 1000;
+        }
+
+        .bug-report-btn:hover {
+            background: #c0392b;
+            transform: scale(1.1);
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1001;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.4);
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal.show {
+            display: flex;
+        }
+
+        .modal-content {
+            background-color: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+            max-width: 500px;
+            width: 90%;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+
+        .modal-header h2 {
+            color: #2c3e50;
+            margin: 0;
+        }
+
+        .close-btn {
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: #999;
+            transition: color 0.3s;
+        }
+
+        .close-btn:hover {
+            color: #333;
+        }
+
+        .bug-form {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .bug-form textarea {
+            padding: 0.75rem;
+            border: 2px solid #ddd;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 0.9rem;
+            resize: vertical;
+            min-height: 120px;
+            transition: border-color 0.3s;
+        }
+
+        .bug-form textarea:focus {
+            outline: none;
+            border-color: #3498db;
+            box-shadow: 0 0 5px rgba(52, 152, 219, 0.3);
+        }
+
+        .bug-form .bug-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: flex-end;
+        }
+
+        .bug-form button {
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.95rem;
+            font-weight: bold;
+            transition: all 0.3s;
+        }
+
+        .bug-form .submit-btn {
+            background: #e74c3c;
+            color: white;
+        }
+
+        .bug-form .submit-btn:hover {
+            background: #c0392b;
+        }
+
+        .bug-form .cancel-btn {
+            background: #ddd;
+            color: #333;
+        }
+
+        .bug-form .cancel-btn:hover {
+            background: #ccc;
+        }
     </style>
 </head>
 <body>
@@ -313,6 +482,40 @@
             </div>
         </div>
     </div>
+
+    <button class="bug-report-btn" onclick="openBugReport()" title="Hiba bejelentés">🐛</button>
+
+    <div id="bugModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Hiba bejelentés</h2>
+                <button class="close-btn" onclick="closeBugReport()">&times;</button>
+            </div>
+            <form class="bug-form">
+                <div>
+                    <label for="bugTitle" style="display: block; margin-bottom: 0.5rem; font-weight: bold;">Hiba leírása:</label>
+                    <textarea id="bugTitle" placeholder="Írd le a hibát, amit találtál..." required></textarea>
+                </div>
+                <div>
+                    <label for="bugEmail" style="display: block; margin-bottom: 0.5rem; font-weight: bold;">Email (opcionális):</label>
+                    <input type="email" id="bugEmail" placeholder="example@email.com" style="padding: 0.75rem; border: 2px solid #ddd; border-radius: 4px; font-size: 0.9rem; width: 100%; transition: border-color 0.3s;" />
+                </div>
+                <div class="bug-buttons">
+                    <button type="button" class="submit-btn" onclick="submitBugReport()">Küldés</button>
+                    <button type="button" class="cancel-btn" onclick="closeBugReport()">Mégse</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer-links">
+            <a href="https://github.com/Kisbivaly/pannaprojekt" target="_blank">📱 Forráskód</a>
+            <a href="https://github.com/Kisbivaly/pannaprojekt/issues" target="_blank">🐛 Hibák bejelentése</a>
+            <a href="https://github.com/Kisbivaly/pannaprojekt" target="_blank">⭐ GitHub</a>
+        </div>
+        <p style="margin: 0; font-size: 0.85rem; color: #bbb;">© 2026 Pannaprojekt - Vizuális kultúra érettségi segítő</p>
+    </footer>
 
     <script>
         let artworks = [];
@@ -384,11 +587,11 @@
                 card.innerHTML = `
                     ${imageHtml}
                     <div class="card-content">
-                        <h2>${artwork.nev}</h2>
-                        ${artwork.keszito ? `<p><strong>Készítő:</strong> ${artwork.keszito}</p>` : ''}
-                        ${artwork.ev ? `<p><strong>Év:</strong> ${artwork.ev}</p>` : ''}
-                        ${artwork.kor ? `<p><strong>Kor:</strong> ${artwork.kor}</p>` : ''}
-                        ${artwork.hely ? `<p><strong>Hely:</strong> ${artwork.hely}</p>` : ''}
+                        <h2>${artwork.nev || 'Ismeretlen'}</h2>
+                        ${artwork.keszito ? `<p><strong>Készítő:</strong> ${artwork.keszito}</p>` : `<p><strong>Készítő:</strong> Ismeretlen</p>`}
+                        ${artwork.ev ? `<p><strong>Év:</strong> ${artwork.ev}</p>` : `<p><strong>Év:</strong> Ismeretlen</p>`}
+                        ${artwork.kor ? `<p><strong>Kor:</strong> ${artwork.kor}</p>` : `<p><strong>Kor:</strong> Ismeretlen</p>`}
+                        ${artwork.hely ? `<p><strong>Hely:</strong> ${artwork.hely}</p>` : `<p><strong>Hely:</strong> Ismeretlen</p>`}
                         <div class="card-meta">
                             ${link}
                         </div>
@@ -431,6 +634,8 @@
                 const value = artwork[field];
                 if (value) {
                     options.add(value);
+                } else {
+                    options.add('Ismeretlen');
                 }
             });
             
@@ -508,11 +713,11 @@
             document.getElementById('nextBtn').style.display = 'none';
             
             window.currentCorrectAnswers = {
-                'nev': artwork.nev,
-                'keszito': artwork.keszito,
-                'ev': artwork.ev,
-                'kor': artwork.kor,
-                'hely': artwork.hely
+                'nev': artwork.nev || 'Ismeretlen',
+                'keszito': artwork.keszito || 'Ismeretlen',
+                'ev': artwork.ev || 'Ismeretlen',
+                'kor': artwork.kor || 'Ismeretlen',
+                'hely': artwork.hely || 'Ismeretlen'
             };
         }
 
@@ -525,8 +730,15 @@
                 const select = document.getElementById(`field_${field}`);
                 const selected = select.value;
                 const correctValue = correct[field];
+                const formGroup = select.parentElement;
 
                 select.disabled = true;
+
+                // Remove any existing feedback
+                const existingFeedback = formGroup.querySelector('.feedback');
+                if (existingFeedback) {
+                    existingFeedback.remove();
+                }
 
                 if (selected === correctValue) {
                     select.classList.add('correct');
@@ -534,6 +746,16 @@
                 } else {
                     select.classList.add('incorrect');
                     allCorrect = false;
+                    
+                    // Add feedback showing the correct answer
+                    const feedback = document.createElement('div');
+                    feedback.className = 'feedback';
+                    feedback.style.color = '#27ae60';
+                    feedback.style.fontSize = '0.9rem';
+                    feedback.style.marginTop = '0.5rem';
+                    feedback.style.fontWeight = 'bold';
+                    feedback.textContent = `✓ Helyes válasz: ${correctValue}`;
+                    formGroup.appendChild(feedback);
                 }
             });
 
@@ -568,6 +790,51 @@
 
         document.getElementById('searchInput').addEventListener('keyup', filterArtworks);
         document.getElementById('filterKor').addEventListener('keyup', filterArtworks);
+
+        // Bug report functions
+        function openBugReport() {
+            document.getElementById('bugModal').classList.add('show');
+        }
+
+        function closeBugReport() {
+            document.getElementById('bugModal').classList.remove('show');
+            document.getElementById('bugTitle').value = '';
+            document.getElementById('bugEmail').value = '';
+        }
+
+        function submitBugReport() {
+            const bugTitle = document.getElementById('bugTitle').value.trim();
+            const bugEmail = document.getElementById('bugEmail').value.trim();
+
+            if (!bugTitle) {
+                alert('Kérlek írj le egy hibát!');
+                return;
+            }
+
+            // Create GitHub issue URL with pre-filled content
+            const issueTitle = encodeURIComponent(`[Hiba bejelentés] ${bugTitle.split('\n')[0]}`);
+            const issueBody = encodeURIComponent(
+                `**Hiba leírása:**\n${bugTitle}\n\n` +
+                `${bugEmail ? `**Felhasználó emaile:** ${bugEmail}\n\n` : ''}` +
+                `**Böngésző:** ${navigator.userAgent}\n` +
+                `**Idő:** ${new Date().toLocaleString('hu-HU')}`
+            );
+
+            // Open GitHub issues page with pre-filled issue
+            const githubIssueUrl = `https://github.com/Kisbivaly/pannaprojekt/issues/new?title=${issueTitle}&body=${issueBody}`;
+            
+            window.open(githubIssueUrl, '_blank');
+            closeBugReport();
+            alert('Köszönöm a hibabejelentést! A GitHub issues oldal megnyílt.');
+        }
+
+        // Close modal when clicking outside
+        window.onclick = function(event) {
+            const modal = document.getElementById('bugModal');
+            if (event.target === modal) {
+                closeBugReport();
+            }
+        }
     </script>
 </body>
 </html>
